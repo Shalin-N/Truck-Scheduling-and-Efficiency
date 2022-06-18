@@ -1,0 +1,16 @@
+Distribution Centre Auckland,Countdown Birkenhead,Countdown Glenfield,Countdown Northcote,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Hauraki Corner,Countdown Milford,Countdown Takapuna,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Browns Bay,Countdown Mairangi Bay,Countdown Sunnynook,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Auckland City,Countdown Victoria Street West,Countdown Newmarket,Countdown Mt Eden,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Grey Lynn Central,Countdown Ponsonby,Countdown Grey Lynn,Countdown Pt Chevalier,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Highland Park,Countdown Aviemore Drive,Countdown Howick,Countdown Meadowlands,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown St Johns,Countdown Meadowbank,Countdown Mt Wellington,Countdown Sylvia Park,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Botany Downs,Countdown Pakuranga,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Papatoetoe,Countdown Manukau,Countdown Manukau Mall,Countdown Mangere East,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Takanini,Countdown Papakura,Countdown Roselands,Countdown Manurewa,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Mangere Mall,Countdown Airport,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Kelston,Countdown Henderson,Countdown Lincoln Road,Countdown Te Atatu,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Lynfield,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Te Atatu South,Countdown Westgate,Countdown Northwest,Countdown Hobsonville,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Blockhouse Bay,Countdown Lynmall,Countdown St Lukes,Countdown Mt Roskill,Distribution Centre Auckland
+Distribution Centre Auckland,Countdown Three Kings,Countdown Greenlane,Countdown Onehunga,Distribution Centre Auckland

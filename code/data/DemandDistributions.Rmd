@@ -1,0 +1,130 @@
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(boot)
+library(MASS)
+library(wesanderson)
+library(viridis)
+library(lubridate)
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/2021/Sem2/OR-Project-Team8/code/data")
+```
+
+# Demand Distribution Exploration
+
+Set working directory to github/code/data !
+
+## 1. Summary Statistics per store.
+
+```{r}
+demands <- read.csv("WoolworthsDemands.csv")
+names <- colnames(demands)
+clean <- names[-1]
+# clean <- as.Date(clean, format="X%m.%d.%Y")
+# format(clean,format="%d%b%y")
+clean <- str_replace(clean,"X","")
+names[1] <- "Store"
+names[-1] <- clean
+colnames(demands) <- clean
+```
+
+```{r}
+demands2 <- read.csv("DemandLongPivot.csv")
+weekdays <- c('Monday','Tuesday','Wednesday','Thursday','Friday')
+demands2$weekday <- factor(((demands2$day) %in% weekdays), 
+         levels=c(FALSE, TRUE), labels=c('Saturday', 'Weekday'))
+weekdays <- subset(demands2, demands2$weekday == 'Weekday')
+output <- weekdays %>% group_by(Store) %>% summarise('mean' = mean(demand),'median' = median(demand), 'min' = min(demand), 'max' = max(demand), 'standard deviation' = sd(demand))
+write.csv(output, file ="Demand_PERT.csv", row.names=FALSE)
+      
+```
+
+## 2. Distribution of deviation from global means
+
+Calculated per store type, for both Saturdays and weekdays.
+
+### 2.1 Saturdays
+
+```{r}
+demandsLong <- read.csv("DemandLongPivot.csv")
+weekendmean <- filter(demandsLong, day=="Saturday") %>% group_by(Store) %>% summarise(WeekendMean = mean(demand), WeekendVar = var(demand))
+weekdaymean <- filter(demandsLong, day != c("Saturday", "Sunday")) %>% group_by(Store) %>% summarise(WeekdayMean = mean(demand), variance = var(demand))
+
+weekendstores <- filter(demandsLong, day=="Saturday")
+weekendstores <- weekendstores %>% group_by(Store) %>% mutate(avg = mean(demand), variance = var(demand)) %>% filter(demand != 0)
+```
+
+Assuming that the stores of each type share the distribution for deviation from the mean (on any given day),
+
+```{r}
+weekendstores$delta <- weekendstores$demand - weekendstores$avg
+summary(weekendstores$delta)
+# Distribution of deviation from mean (per store)
+hist(weekendstores$delta, main = "Histogram of difference from mean", xlab = "Pallets")
+```
+
+The distribution of the mean of a random sample from a population with finite variance is approximately normally distributed (when the sample size is large), regardless of the shape of the population's distribution.
+
+I used this fact to generate a bootstrapped confidence interval for the population variance of the deltas.
+
+```{r}
+weekendstores <- as.data.frame(weekendstores)
+
+samplemean <- function(x, ind) {
+  m <- mean(x[ind,7])
+  return(m)
+}
+samplevar <- function(x, ind) {
+  m <- var(x[ind,7])
+  return(m)
+}
+
+means <- boot(data = weekendstores, samplemean, R = 1000)
+
+vars <- boot(data = weekendstores, samplevar, R = 1000)
+plot(vars)
+title(main = "Bootstrap Vars")
+plot(means)
+title(main = "Bootstrap Means")
+
+
+```
+
+```{r}
+mydata <- weekendstores$delta
+# fitdistr(mydata, "weibull")
+```
+
+## 3. Pretty graphs
+
+```{r}
+allmeans <- weekendmean %>% arrange(desc(WeekendMean)) %>% mutate(WeekdayMean = weekdaymean$WeekdayMean, WeekdayVar = weekdaymean$variance)
+
+rename(allmeans, SaturdayMean = WeekendMean)
+
+storemeans <- allmeans[,c(1,2,4)] %>% pivot_longer(cols = c(2,3), names_to = "Type", values_to = "Value")
+
+storevars <- allmeans[,c(1,3,5)] %>% pivot_longer(cols = c(2,3), names_to = "Type", values_to = "Value")
+
+allmeans <- allmeans %>% pivot_longer(cols = c(2,3,4,5), names_to = "Type", values_to = "Value")
+
+```
+
+```{r}
+MyColor <- c("#2783BD","#92C448") 
+
+ggplot(storemeans, aes(Store, Value, fill = Type)) + 
+  geom_bar(position = "dodge", stat = "identity", width = 0.8) + 
+  theme_bw() + 
+  scale_fill_manual(values = MyColor) + 
+  labs(title = "Mean daily demand per store") + 
+  ylab("Demand (pallets)") + 
+  theme(axis.text.x=element_text(angle = 70, hjust = 1), text = element_text(size = 26))
+  
+
+ggsave("stores.png", width = 24, height = 10,dpi = 400)
+# Looks ugly here but is nice in print.
+
+```
+
+![](http://127.0.0.1:36963/chunk_output/36FE97BC4D312DD0/54666BD1/c3pkspiinrrg8/000021.png)

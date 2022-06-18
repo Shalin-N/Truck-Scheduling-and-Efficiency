@@ -1,0 +1,1821 @@
+,Store,date,demand,day
+1,Countdown Airport,14/06/21,5,Monday
+2,Countdown Airport,15/06/21,6,Tuesday
+3,Countdown Airport,16/06/21,10,Wednesday
+4,Countdown Airport,17/06/21,11,Thursday
+5,Countdown Airport,18/06/21,7,Friday
+6,Countdown Airport,19/06/21,5,Saturday
+7,Countdown Airport,20/06/21,0,Sunday
+8,Countdown Airport,21/06/21,7,Monday
+9,Countdown Airport,22/06/21,8,Tuesday
+10,Countdown Airport,23/06/21,5,Wednesday
+11,Countdown Airport,24/06/21,8,Thursday
+12,Countdown Airport,25/06/21,3,Friday
+13,Countdown Airport,26/06/21,5,Saturday
+14,Countdown Airport,27/06/21,0,Sunday
+15,Countdown Airport,28/06/21,6,Monday
+16,Countdown Airport,29/06/21,10,Tuesday
+17,Countdown Airport,30/06/21,5,Wednesday
+18,Countdown Airport,1/07/21,6,Thursday
+19,Countdown Airport,2/07/21,7,Friday
+20,Countdown Airport,3/07/21,6,Saturday
+21,Countdown Airport,4/07/21,0,Sunday
+22,Countdown Airport,5/07/21,8,Monday
+23,Countdown Airport,6/07/21,6,Tuesday
+24,Countdown Airport,7/07/21,8,Wednesday
+25,Countdown Airport,8/07/21,9,Thursday
+26,Countdown Airport,9/07/21,7,Friday
+27,Countdown Airport,10/07/21,3,Saturday
+28,Countdown Airport,11/07/21,0,Sunday
+29,Countdown Auckland City,14/06/21,6,Monday
+30,Countdown Auckland City,15/06/21,8,Tuesday
+31,Countdown Auckland City,16/06/21,5,Wednesday
+32,Countdown Auckland City,17/06/21,8,Thursday
+33,Countdown Auckland City,18/06/21,8,Friday
+34,Countdown Auckland City,19/06/21,2,Saturday
+35,Countdown Auckland City,20/06/21,0,Sunday
+36,Countdown Auckland City,21/06/21,8,Monday
+37,Countdown Auckland City,22/06/21,8,Tuesday
+38,Countdown Auckland City,23/06/21,13,Wednesday
+39,Countdown Auckland City,24/06/21,11,Thursday
+40,Countdown Auckland City,25/06/21,8,Friday
+41,Countdown Auckland City,26/06/21,4,Saturday
+42,Countdown Auckland City,27/06/21,0,Sunday
+43,Countdown Auckland City,28/06/21,6,Monday
+44,Countdown Auckland City,29/06/21,8,Tuesday
+45,Countdown Auckland City,30/06/21,9,Wednesday
+46,Countdown Auckland City,1/07/21,10,Thursday
+47,Countdown Auckland City,2/07/21,6,Friday
+48,Countdown Auckland City,3/07/21,3,Saturday
+49,Countdown Auckland City,4/07/21,0,Sunday
+50,Countdown Auckland City,5/07/21,11,Monday
+51,Countdown Auckland City,6/07/21,7,Tuesday
+52,Countdown Auckland City,7/07/21,7,Wednesday
+53,Countdown Auckland City,8/07/21,9,Thursday
+54,Countdown Auckland City,9/07/21,5,Friday
+55,Countdown Auckland City,10/07/21,5,Saturday
+56,Countdown Auckland City,11/07/21,0,Sunday
+57,Countdown Aviemore Drive,14/06/21,9,Monday
+58,Countdown Aviemore Drive,15/06/21,9,Tuesday
+59,Countdown Aviemore Drive,16/06/21,8,Wednesday
+60,Countdown Aviemore Drive,17/06/21,7,Thursday
+61,Countdown Aviemore Drive,18/06/21,14,Friday
+62,Countdown Aviemore Drive,19/06/21,4,Saturday
+63,Countdown Aviemore Drive,20/06/21,0,Sunday
+64,Countdown Aviemore Drive,21/06/21,6,Monday
+65,Countdown Aviemore Drive,22/06/21,10,Tuesday
+66,Countdown Aviemore Drive,23/06/21,6,Wednesday
+67,Countdown Aviemore Drive,24/06/21,5,Thursday
+68,Countdown Aviemore Drive,25/06/21,6,Friday
+69,Countdown Aviemore Drive,26/06/21,4,Saturday
+70,Countdown Aviemore Drive,27/06/21,0,Sunday
+71,Countdown Aviemore Drive,28/06/21,8,Monday
+72,Countdown Aviemore Drive,29/06/21,8,Tuesday
+73,Countdown Aviemore Drive,30/06/21,10,Wednesday
+74,Countdown Aviemore Drive,1/07/21,3,Thursday
+75,Countdown Aviemore Drive,2/07/21,10,Friday
+76,Countdown Aviemore Drive,3/07/21,6,Saturday
+77,Countdown Aviemore Drive,4/07/21,0,Sunday
+78,Countdown Aviemore Drive,5/07/21,7,Monday
+79,Countdown Aviemore Drive,6/07/21,9,Tuesday
+80,Countdown Aviemore Drive,7/07/21,4,Wednesday
+81,Countdown Aviemore Drive,8/07/21,6,Thursday
+82,Countdown Aviemore Drive,9/07/21,9,Friday
+83,Countdown Aviemore Drive,10/07/21,2,Saturday
+84,Countdown Aviemore Drive,11/07/21,0,Sunday
+85,Countdown Birkenhead,14/06/21,9,Monday
+86,Countdown Birkenhead,15/06/21,4,Tuesday
+87,Countdown Birkenhead,16/06/21,8,Wednesday
+88,Countdown Birkenhead,17/06/21,10,Thursday
+89,Countdown Birkenhead,18/06/21,7,Friday
+90,Countdown Birkenhead,19/06/21,5,Saturday
+91,Countdown Birkenhead,20/06/21,0,Sunday
+92,Countdown Birkenhead,21/06/21,5,Monday
+93,Countdown Birkenhead,22/06/21,6,Tuesday
+94,Countdown Birkenhead,23/06/21,12,Wednesday
+95,Countdown Birkenhead,24/06/21,10,Thursday
+96,Countdown Birkenhead,25/06/21,11,Friday
+97,Countdown Birkenhead,26/06/21,2,Saturday
+98,Countdown Birkenhead,27/06/21,0,Sunday
+99,Countdown Birkenhead,28/06/21,7,Monday
+100,Countdown Birkenhead,29/06/21,5,Tuesday
+101,Countdown Birkenhead,30/06/21,10,Wednesday
+102,Countdown Birkenhead,1/07/21,10,Thursday
+103,Countdown Birkenhead,2/07/21,7,Friday
+104,Countdown Birkenhead,3/07/21,6,Saturday
+105,Countdown Birkenhead,4/07/21,0,Sunday
+106,Countdown Birkenhead,5/07/21,9,Monday
+107,Countdown Birkenhead,6/07/21,9,Tuesday
+108,Countdown Birkenhead,7/07/21,5,Wednesday
+109,Countdown Birkenhead,8/07/21,4,Thursday
+110,Countdown Birkenhead,9/07/21,12,Friday
+111,Countdown Birkenhead,10/07/21,4,Saturday
+112,Countdown Birkenhead,11/07/21,0,Sunday
+113,Countdown Blockhouse Bay,14/06/21,6,Monday
+114,Countdown Blockhouse Bay,15/06/21,8,Tuesday
+115,Countdown Blockhouse Bay,16/06/21,7,Wednesday
+116,Countdown Blockhouse Bay,17/06/21,6,Thursday
+117,Countdown Blockhouse Bay,18/06/21,6,Friday
+118,Countdown Blockhouse Bay,19/06/21,2,Saturday
+119,Countdown Blockhouse Bay,20/06/21,0,Sunday
+120,Countdown Blockhouse Bay,21/06/21,9,Monday
+121,Countdown Blockhouse Bay,22/06/21,4,Tuesday
+122,Countdown Blockhouse Bay,23/06/21,8,Wednesday
+123,Countdown Blockhouse Bay,24/06/21,10,Thursday
+124,Countdown Blockhouse Bay,25/06/21,9,Friday
+125,Countdown Blockhouse Bay,26/06/21,2,Saturday
+126,Countdown Blockhouse Bay,27/06/21,0,Sunday
+127,Countdown Blockhouse Bay,28/06/21,6,Monday
+128,Countdown Blockhouse Bay,29/06/21,7,Tuesday
+129,Countdown Blockhouse Bay,30/06/21,9,Wednesday
+130,Countdown Blockhouse Bay,1/07/21,9,Thursday
+131,Countdown Blockhouse Bay,2/07/21,7,Friday
+132,Countdown Blockhouse Bay,3/07/21,3,Saturday
+133,Countdown Blockhouse Bay,4/07/21,0,Sunday
+134,Countdown Blockhouse Bay,5/07/21,8,Monday
+135,Countdown Blockhouse Bay,6/07/21,8,Tuesday
+136,Countdown Blockhouse Bay,7/07/21,4,Wednesday
+137,Countdown Blockhouse Bay,8/07/21,10,Thursday
+138,Countdown Blockhouse Bay,9/07/21,3,Friday
+139,Countdown Blockhouse Bay,10/07/21,2,Saturday
+140,Countdown Blockhouse Bay,11/07/21,0,Sunday
+141,Countdown Botany Downs,14/06/21,9,Monday
+142,Countdown Botany Downs,15/06/21,11,Tuesday
+143,Countdown Botany Downs,16/06/21,7,Wednesday
+144,Countdown Botany Downs,17/06/21,11,Thursday
+145,Countdown Botany Downs,18/06/21,9,Friday
+146,Countdown Botany Downs,19/06/21,2,Saturday
+147,Countdown Botany Downs,20/06/21,0,Sunday
+148,Countdown Botany Downs,21/06/21,8,Monday
+149,Countdown Botany Downs,22/06/21,8,Tuesday
+150,Countdown Botany Downs,23/06/21,10,Wednesday
+151,Countdown Botany Downs,24/06/21,9,Thursday
+152,Countdown Botany Downs,25/06/21,8,Friday
+153,Countdown Botany Downs,26/06/21,4,Saturday
+154,Countdown Botany Downs,27/06/21,0,Sunday
+155,Countdown Botany Downs,28/06/21,7,Monday
+156,Countdown Botany Downs,29/06/21,7,Tuesday
+157,Countdown Botany Downs,30/06/21,8,Wednesday
+158,Countdown Botany Downs,1/07/21,8,Thursday
+159,Countdown Botany Downs,2/07/21,6,Friday
+160,Countdown Botany Downs,3/07/21,3,Saturday
+161,Countdown Botany Downs,4/07/21,0,Sunday
+162,Countdown Botany Downs,5/07/21,11,Monday
+163,Countdown Botany Downs,6/07/21,6,Tuesday
+164,Countdown Botany Downs,7/07/21,8,Wednesday
+165,Countdown Botany Downs,8/07/21,9,Thursday
+166,Countdown Botany Downs,9/07/21,4,Friday
+167,Countdown Botany Downs,10/07/21,5,Saturday
+168,Countdown Botany Downs,11/07/21,0,Sunday
+169,Countdown Browns Bay,14/06/21,14,Monday
+170,Countdown Browns Bay,15/06/21,11,Tuesday
+171,Countdown Browns Bay,16/06/21,6,Wednesday
+172,Countdown Browns Bay,17/06/21,8,Thursday
+173,Countdown Browns Bay,18/06/21,14,Friday
+174,Countdown Browns Bay,19/06/21,2,Saturday
+175,Countdown Browns Bay,20/06/21,0,Sunday
+176,Countdown Browns Bay,21/06/21,6,Monday
+177,Countdown Browns Bay,22/06/21,5,Tuesday
+178,Countdown Browns Bay,23/06/21,10,Wednesday
+179,Countdown Browns Bay,24/06/21,9,Thursday
+180,Countdown Browns Bay,25/06/21,6,Friday
+181,Countdown Browns Bay,26/06/21,4,Saturday
+182,Countdown Browns Bay,27/06/21,0,Sunday
+183,Countdown Browns Bay,28/06/21,10,Monday
+184,Countdown Browns Bay,29/06/21,3,Tuesday
+185,Countdown Browns Bay,30/06/21,5,Wednesday
+186,Countdown Browns Bay,1/07/21,7,Thursday
+187,Countdown Browns Bay,2/07/21,12,Friday
+188,Countdown Browns Bay,3/07/21,6,Saturday
+189,Countdown Browns Bay,4/07/21,0,Sunday
+190,Countdown Browns Bay,5/07/21,9,Monday
+191,Countdown Browns Bay,6/07/21,5,Tuesday
+192,Countdown Browns Bay,7/07/21,7,Wednesday
+193,Countdown Browns Bay,8/07/21,7,Thursday
+194,Countdown Browns Bay,9/07/21,9,Friday
+195,Countdown Browns Bay,10/07/21,5,Saturday
+196,Countdown Browns Bay,11/07/21,0,Sunday
+197,Countdown Glenfield,14/06/21,8,Monday
+198,Countdown Glenfield,15/06/21,4,Tuesday
+199,Countdown Glenfield,16/06/21,8,Wednesday
+200,Countdown Glenfield,17/06/21,3,Thursday
+201,Countdown Glenfield,18/06/21,4,Friday
+202,Countdown Glenfield,19/06/21,6,Saturday
+203,Countdown Glenfield,20/06/21,0,Sunday
+204,Countdown Glenfield,21/06/21,10,Monday
+205,Countdown Glenfield,22/06/21,6,Tuesday
+206,Countdown Glenfield,23/06/21,7,Wednesday
+207,Countdown Glenfield,24/06/21,8,Thursday
+208,Countdown Glenfield,25/06/21,7,Friday
+209,Countdown Glenfield,26/06/21,3,Saturday
+210,Countdown Glenfield,27/06/21,0,Sunday
+211,Countdown Glenfield,28/06/21,6,Monday
+212,Countdown Glenfield,29/06/21,8,Tuesday
+213,Countdown Glenfield,30/06/21,10,Wednesday
+214,Countdown Glenfield,1/07/21,5,Thursday
+215,Countdown Glenfield,2/07/21,5,Friday
+216,Countdown Glenfield,3/07/21,6,Saturday
+217,Countdown Glenfield,4/07/21,0,Sunday
+218,Countdown Glenfield,5/07/21,9,Monday
+219,Countdown Glenfield,6/07/21,9,Tuesday
+220,Countdown Glenfield,7/07/21,11,Wednesday
+221,Countdown Glenfield,8/07/21,7,Thursday
+222,Countdown Glenfield,9/07/21,6,Friday
+223,Countdown Glenfield,10/07/21,3,Saturday
+224,Countdown Glenfield,11/07/21,0,Sunday
+225,Countdown Greenlane,14/06/21,10,Monday
+226,Countdown Greenlane,15/06/21,10,Tuesday
+227,Countdown Greenlane,16/06/21,13,Wednesday
+228,Countdown Greenlane,17/06/21,7,Thursday
+229,Countdown Greenlane,18/06/21,9,Friday
+230,Countdown Greenlane,19/06/21,4,Saturday
+231,Countdown Greenlane,20/06/21,0,Sunday
+232,Countdown Greenlane,21/06/21,5,Monday
+233,Countdown Greenlane,22/06/21,12,Tuesday
+234,Countdown Greenlane,23/06/21,8,Wednesday
+235,Countdown Greenlane,24/06/21,9,Thursday
+236,Countdown Greenlane,25/06/21,11,Friday
+237,Countdown Greenlane,26/06/21,4,Saturday
+238,Countdown Greenlane,27/06/21,0,Sunday
+239,Countdown Greenlane,28/06/21,8,Monday
+240,Countdown Greenlane,29/06/21,12,Tuesday
+241,Countdown Greenlane,30/06/21,6,Wednesday
+242,Countdown Greenlane,1/07/21,5,Thursday
+243,Countdown Greenlane,2/07/21,10,Friday
+244,Countdown Greenlane,3/07/21,2,Saturday
+245,Countdown Greenlane,4/07/21,0,Sunday
+246,Countdown Greenlane,5/07/21,8,Monday
+247,Countdown Greenlane,6/07/21,6,Tuesday
+248,Countdown Greenlane,7/07/21,10,Wednesday
+249,Countdown Greenlane,8/07/21,3,Thursday
+250,Countdown Greenlane,9/07/21,5,Friday
+251,Countdown Greenlane,10/07/21,4,Saturday
+252,Countdown Greenlane,11/07/21,0,Sunday
+253,Countdown Grey Lynn,14/06/21,11,Monday
+254,Countdown Grey Lynn,15/06/21,9,Tuesday
+255,Countdown Grey Lynn,16/06/21,9,Wednesday
+256,Countdown Grey Lynn,17/06/21,7,Thursday
+257,Countdown Grey Lynn,18/06/21,5,Friday
+258,Countdown Grey Lynn,19/06/21,2,Saturday
+259,Countdown Grey Lynn,20/06/21,0,Sunday
+260,Countdown Grey Lynn,21/06/21,7,Monday
+261,Countdown Grey Lynn,22/06/21,7,Tuesday
+262,Countdown Grey Lynn,23/06/21,10,Wednesday
+263,Countdown Grey Lynn,24/06/21,4,Thursday
+264,Countdown Grey Lynn,25/06/21,12,Friday
+265,Countdown Grey Lynn,26/06/21,3,Saturday
+266,Countdown Grey Lynn,27/06/21,0,Sunday
+267,Countdown Grey Lynn,28/06/21,8,Monday
+268,Countdown Grey Lynn,29/06/21,9,Tuesday
+269,Countdown Grey Lynn,30/06/21,13,Wednesday
+270,Countdown Grey Lynn,1/07/21,11,Thursday
+271,Countdown Grey Lynn,2/07/21,8,Friday
+272,Countdown Grey Lynn,3/07/21,2,Saturday
+273,Countdown Grey Lynn,4/07/21,0,Sunday
+274,Countdown Grey Lynn,5/07/21,11,Monday
+275,Countdown Grey Lynn,6/07/21,6,Tuesday
+276,Countdown Grey Lynn,7/07/21,11,Wednesday
+277,Countdown Grey Lynn,8/07/21,3,Thursday
+278,Countdown Grey Lynn,9/07/21,11,Friday
+279,Countdown Grey Lynn,10/07/21,5,Saturday
+280,Countdown Grey Lynn,11/07/21,0,Sunday
+281,Countdown Grey Lynn Central,14/06/21,8,Monday
+282,Countdown Grey Lynn Central,15/06/21,11,Tuesday
+283,Countdown Grey Lynn Central,16/06/21,3,Wednesday
+284,Countdown Grey Lynn Central,17/06/21,6,Thursday
+285,Countdown Grey Lynn Central,18/06/21,12,Friday
+286,Countdown Grey Lynn Central,19/06/21,6,Saturday
+287,Countdown Grey Lynn Central,20/06/21,0,Sunday
+288,Countdown Grey Lynn Central,21/06/21,6,Monday
+289,Countdown Grey Lynn Central,22/06/21,5,Tuesday
+290,Countdown Grey Lynn Central,23/06/21,13,Wednesday
+291,Countdown Grey Lynn Central,24/06/21,10,Thursday
+292,Countdown Grey Lynn Central,25/06/21,9,Friday
+293,Countdown Grey Lynn Central,26/06/21,6,Saturday
+294,Countdown Grey Lynn Central,27/06/21,0,Sunday
+295,Countdown Grey Lynn Central,28/06/21,5,Monday
+296,Countdown Grey Lynn Central,29/06/21,11,Tuesday
+297,Countdown Grey Lynn Central,30/06/21,6,Wednesday
+298,Countdown Grey Lynn Central,1/07/21,11,Thursday
+299,Countdown Grey Lynn Central,2/07/21,6,Friday
+300,Countdown Grey Lynn Central,3/07/21,6,Saturday
+301,Countdown Grey Lynn Central,4/07/21,0,Sunday
+302,Countdown Grey Lynn Central,5/07/21,10,Monday
+303,Countdown Grey Lynn Central,6/07/21,7,Tuesday
+304,Countdown Grey Lynn Central,7/07/21,11,Wednesday
+305,Countdown Grey Lynn Central,8/07/21,9,Thursday
+306,Countdown Grey Lynn Central,9/07/21,7,Friday
+307,Countdown Grey Lynn Central,10/07/21,4,Saturday
+308,Countdown Grey Lynn Central,11/07/21,0,Sunday
+309,Countdown Hauraki Corner,14/06/21,7,Monday
+310,Countdown Hauraki Corner,15/06/21,5,Tuesday
+311,Countdown Hauraki Corner,16/06/21,8,Wednesday
+312,Countdown Hauraki Corner,17/06/21,6,Thursday
+313,Countdown Hauraki Corner,18/06/21,6,Friday
+314,Countdown Hauraki Corner,19/06/21,2,Saturday
+315,Countdown Hauraki Corner,20/06/21,0,Sunday
+316,Countdown Hauraki Corner,21/06/21,9,Monday
+317,Countdown Hauraki Corner,22/06/21,13,Tuesday
+318,Countdown Hauraki Corner,23/06/21,9,Wednesday
+319,Countdown Hauraki Corner,24/06/21,4,Thursday
+320,Countdown Hauraki Corner,25/06/21,9,Friday
+321,Countdown Hauraki Corner,26/06/21,4,Saturday
+322,Countdown Hauraki Corner,27/06/21,0,Sunday
+323,Countdown Hauraki Corner,28/06/21,5,Monday
+324,Countdown Hauraki Corner,29/06/21,6,Tuesday
+325,Countdown Hauraki Corner,30/06/21,9,Wednesday
+326,Countdown Hauraki Corner,1/07/21,6,Thursday
+327,Countdown Hauraki Corner,2/07/21,10,Friday
+328,Countdown Hauraki Corner,3/07/21,5,Saturday
+329,Countdown Hauraki Corner,4/07/21,0,Sunday
+330,Countdown Hauraki Corner,5/07/21,10,Monday
+331,Countdown Hauraki Corner,6/07/21,8,Tuesday
+332,Countdown Hauraki Corner,7/07/21,6,Wednesday
+333,Countdown Hauraki Corner,8/07/21,7,Thursday
+334,Countdown Hauraki Corner,9/07/21,3,Friday
+335,Countdown Hauraki Corner,10/07/21,6,Saturday
+336,Countdown Hauraki Corner,11/07/21,0,Sunday
+337,Countdown Henderson,14/06/21,11,Monday
+338,Countdown Henderson,15/06/21,9,Tuesday
+339,Countdown Henderson,16/06/21,5,Wednesday
+340,Countdown Henderson,17/06/21,6,Thursday
+341,Countdown Henderson,18/06/21,10,Friday
+342,Countdown Henderson,19/06/21,5,Saturday
+343,Countdown Henderson,20/06/21,0,Sunday
+344,Countdown Henderson,21/06/21,8,Monday
+345,Countdown Henderson,22/06/21,5,Tuesday
+346,Countdown Henderson,23/06/21,8,Wednesday
+347,Countdown Henderson,24/06/21,4,Thursday
+348,Countdown Henderson,25/06/21,8,Friday
+349,Countdown Henderson,26/06/21,3,Saturday
+350,Countdown Henderson,27/06/21,0,Sunday
+351,Countdown Henderson,28/06/21,12,Monday
+352,Countdown Henderson,29/06/21,8,Tuesday
+353,Countdown Henderson,30/06/21,6,Wednesday
+354,Countdown Henderson,1/07/21,8,Thursday
+355,Countdown Henderson,2/07/21,8,Friday
+356,Countdown Henderson,3/07/21,6,Saturday
+357,Countdown Henderson,4/07/21,0,Sunday
+358,Countdown Henderson,5/07/21,5,Monday
+359,Countdown Henderson,6/07/21,6,Tuesday
+360,Countdown Henderson,7/07/21,8,Wednesday
+361,Countdown Henderson,8/07/21,11,Thursday
+362,Countdown Henderson,9/07/21,12,Friday
+363,Countdown Henderson,10/07/21,3,Saturday
+364,Countdown Henderson,11/07/21,0,Sunday
+365,Countdown Highland Park,14/06/21,5,Monday
+366,Countdown Highland Park,15/06/21,8,Tuesday
+367,Countdown Highland Park,16/06/21,9,Wednesday
+368,Countdown Highland Park,17/06/21,8,Thursday
+369,Countdown Highland Park,18/06/21,7,Friday
+370,Countdown Highland Park,19/06/21,2,Saturday
+371,Countdown Highland Park,20/06/21,0,Sunday
+372,Countdown Highland Park,21/06/21,10,Monday
+373,Countdown Highland Park,22/06/21,5,Tuesday
+374,Countdown Highland Park,23/06/21,7,Wednesday
+375,Countdown Highland Park,24/06/21,7,Thursday
+376,Countdown Highland Park,25/06/21,12,Friday
+377,Countdown Highland Park,26/06/21,4,Saturday
+378,Countdown Highland Park,27/06/21,0,Sunday
+379,Countdown Highland Park,28/06/21,10,Monday
+380,Countdown Highland Park,29/06/21,6,Tuesday
+381,Countdown Highland Park,30/06/21,7,Wednesday
+382,Countdown Highland Park,1/07/21,12,Thursday
+383,Countdown Highland Park,2/07/21,8,Friday
+384,Countdown Highland Park,3/07/21,3,Saturday
+385,Countdown Highland Park,4/07/21,0,Sunday
+386,Countdown Highland Park,5/07/21,4,Monday
+387,Countdown Highland Park,6/07/21,12,Tuesday
+388,Countdown Highland Park,7/07/21,4,Wednesday
+389,Countdown Highland Park,8/07/21,7,Thursday
+390,Countdown Highland Park,9/07/21,5,Friday
+391,Countdown Highland Park,10/07/21,2,Saturday
+392,Countdown Highland Park,11/07/21,0,Sunday
+393,Countdown Hobsonville,14/06/21,11,Monday
+394,Countdown Hobsonville,15/06/21,8,Tuesday
+395,Countdown Hobsonville,16/06/21,8,Wednesday
+396,Countdown Hobsonville,17/06/21,4,Thursday
+397,Countdown Hobsonville,18/06/21,10,Friday
+398,Countdown Hobsonville,19/06/21,6,Saturday
+399,Countdown Hobsonville,20/06/21,0,Sunday
+400,Countdown Hobsonville,21/06/21,9,Monday
+401,Countdown Hobsonville,22/06/21,9,Tuesday
+402,Countdown Hobsonville,23/06/21,7,Wednesday
+403,Countdown Hobsonville,24/06/21,9,Thursday
+404,Countdown Hobsonville,25/06/21,7,Friday
+405,Countdown Hobsonville,26/06/21,6,Saturday
+406,Countdown Hobsonville,27/06/21,0,Sunday
+407,Countdown Hobsonville,28/06/21,9,Monday
+408,Countdown Hobsonville,29/06/21,11,Tuesday
+409,Countdown Hobsonville,30/06/21,8,Wednesday
+410,Countdown Hobsonville,1/07/21,12,Thursday
+411,Countdown Hobsonville,2/07/21,8,Friday
+412,Countdown Hobsonville,3/07/21,6,Saturday
+413,Countdown Hobsonville,4/07/21,0,Sunday
+414,Countdown Hobsonville,5/07/21,8,Monday
+415,Countdown Hobsonville,6/07/21,11,Tuesday
+416,Countdown Hobsonville,7/07/21,8,Wednesday
+417,Countdown Hobsonville,8/07/21,10,Thursday
+418,Countdown Hobsonville,9/07/21,5,Friday
+419,Countdown Hobsonville,10/07/21,6,Saturday
+420,Countdown Hobsonville,11/07/21,0,Sunday
+421,Countdown Howick,14/06/21,9,Monday
+422,Countdown Howick,15/06/21,10,Tuesday
+423,Countdown Howick,16/06/21,8,Wednesday
+424,Countdown Howick,17/06/21,11,Thursday
+425,Countdown Howick,18/06/21,13,Friday
+426,Countdown Howick,19/06/21,3,Saturday
+427,Countdown Howick,20/06/21,0,Sunday
+428,Countdown Howick,21/06/21,9,Monday
+429,Countdown Howick,22/06/21,15,Tuesday
+430,Countdown Howick,23/06/21,12,Wednesday
+431,Countdown Howick,24/06/21,8,Thursday
+432,Countdown Howick,25/06/21,6,Friday
+433,Countdown Howick,26/06/21,4,Saturday
+434,Countdown Howick,27/06/21,0,Sunday
+435,Countdown Howick,28/06/21,6,Monday
+436,Countdown Howick,29/06/21,8,Tuesday
+437,Countdown Howick,30/06/21,5,Wednesday
+438,Countdown Howick,1/07/21,8,Thursday
+439,Countdown Howick,2/07/21,10,Friday
+440,Countdown Howick,3/07/21,5,Saturday
+441,Countdown Howick,4/07/21,0,Sunday
+442,Countdown Howick,5/07/21,9,Monday
+443,Countdown Howick,6/07/21,6,Tuesday
+444,Countdown Howick,7/07/21,9,Wednesday
+445,Countdown Howick,8/07/21,8,Thursday
+446,Countdown Howick,9/07/21,9,Friday
+447,Countdown Howick,10/07/21,4,Saturday
+448,Countdown Howick,11/07/21,0,Sunday
+449,Countdown Kelston,14/06/21,7,Monday
+450,Countdown Kelston,15/06/21,9,Tuesday
+451,Countdown Kelston,16/06/21,11,Wednesday
+452,Countdown Kelston,17/06/21,8,Thursday
+453,Countdown Kelston,18/06/21,10,Friday
+454,Countdown Kelston,19/06/21,4,Saturday
+455,Countdown Kelston,20/06/21,0,Sunday
+456,Countdown Kelston,21/06/21,5,Monday
+457,Countdown Kelston,22/06/21,13,Tuesday
+458,Countdown Kelston,23/06/21,6,Wednesday
+459,Countdown Kelston,24/06/21,12,Thursday
+460,Countdown Kelston,25/06/21,9,Friday
+461,Countdown Kelston,26/06/21,5,Saturday
+462,Countdown Kelston,27/06/21,0,Sunday
+463,Countdown Kelston,28/06/21,5,Monday
+464,Countdown Kelston,29/06/21,7,Tuesday
+465,Countdown Kelston,30/06/21,6,Wednesday
+466,Countdown Kelston,1/07/21,7,Thursday
+467,Countdown Kelston,2/07/21,6,Friday
+468,Countdown Kelston,3/07/21,5,Saturday
+469,Countdown Kelston,4/07/21,0,Sunday
+470,Countdown Kelston,5/07/21,7,Monday
+471,Countdown Kelston,6/07/21,9,Tuesday
+472,Countdown Kelston,7/07/21,7,Wednesday
+473,Countdown Kelston,8/07/21,15,Thursday
+474,Countdown Kelston,9/07/21,4,Friday
+475,Countdown Kelston,10/07/21,2,Saturday
+476,Countdown Kelston,11/07/21,0,Sunday
+477,Countdown Lincoln Road,14/06/21,9,Monday
+478,Countdown Lincoln Road,15/06/21,9,Tuesday
+479,Countdown Lincoln Road,16/06/21,10,Wednesday
+480,Countdown Lincoln Road,17/06/21,7,Thursday
+481,Countdown Lincoln Road,18/06/21,4,Friday
+482,Countdown Lincoln Road,19/06/21,4,Saturday
+483,Countdown Lincoln Road,20/06/21,0,Sunday
+484,Countdown Lincoln Road,21/06/21,6,Monday
+485,Countdown Lincoln Road,22/06/21,11,Tuesday
+486,Countdown Lincoln Road,23/06/21,6,Wednesday
+487,Countdown Lincoln Road,24/06/21,9,Thursday
+488,Countdown Lincoln Road,25/06/21,10,Friday
+489,Countdown Lincoln Road,26/06/21,4,Saturday
+490,Countdown Lincoln Road,27/06/21,0,Sunday
+491,Countdown Lincoln Road,28/06/21,5,Monday
+492,Countdown Lincoln Road,29/06/21,9,Tuesday
+493,Countdown Lincoln Road,30/06/21,9,Wednesday
+494,Countdown Lincoln Road,1/07/21,7,Thursday
+495,Countdown Lincoln Road,2/07/21,12,Friday
+496,Countdown Lincoln Road,3/07/21,6,Saturday
+497,Countdown Lincoln Road,4/07/21,0,Sunday
+498,Countdown Lincoln Road,5/07/21,9,Monday
+499,Countdown Lincoln Road,6/07/21,9,Tuesday
+500,Countdown Lincoln Road,7/07/21,7,Wednesday
+501,Countdown Lincoln Road,8/07/21,6,Thursday
+502,Countdown Lincoln Road,9/07/21,14,Friday
+503,Countdown Lincoln Road,10/07/21,4,Saturday
+504,Countdown Lincoln Road,11/07/21,0,Sunday
+505,Countdown Lynfield,14/06/21,12,Monday
+506,Countdown Lynfield,15/06/21,11,Tuesday
+507,Countdown Lynfield,16/06/21,7,Wednesday
+508,Countdown Lynfield,17/06/21,9,Thursday
+509,Countdown Lynfield,18/06/21,6,Friday
+510,Countdown Lynfield,19/06/21,6,Saturday
+511,Countdown Lynfield,20/06/21,0,Sunday
+512,Countdown Lynfield,21/06/21,11,Monday
+513,Countdown Lynfield,22/06/21,6,Tuesday
+514,Countdown Lynfield,23/06/21,4,Wednesday
+515,Countdown Lynfield,24/06/21,9,Thursday
+516,Countdown Lynfield,25/06/21,8,Friday
+517,Countdown Lynfield,26/06/21,4,Saturday
+518,Countdown Lynfield,27/06/21,0,Sunday
+519,Countdown Lynfield,28/06/21,7,Monday
+520,Countdown Lynfield,29/06/21,6,Tuesday
+521,Countdown Lynfield,30/06/21,12,Wednesday
+522,Countdown Lynfield,1/07/21,7,Thursday
+523,Countdown Lynfield,2/07/21,9,Friday
+524,Countdown Lynfield,3/07/21,2,Saturday
+525,Countdown Lynfield,4/07/21,0,Sunday
+526,Countdown Lynfield,5/07/21,6,Monday
+527,Countdown Lynfield,6/07/21,10,Tuesday
+528,Countdown Lynfield,7/07/21,8,Wednesday
+529,Countdown Lynfield,8/07/21,7,Thursday
+530,Countdown Lynfield,9/07/21,8,Friday
+531,Countdown Lynfield,10/07/21,2,Saturday
+532,Countdown Lynfield,11/07/21,0,Sunday
+533,Countdown Lynmall,14/06/21,7,Monday
+534,Countdown Lynmall,15/06/21,7,Tuesday
+535,Countdown Lynmall,16/06/21,7,Wednesday
+536,Countdown Lynmall,17/06/21,5,Thursday
+537,Countdown Lynmall,18/06/21,5,Friday
+538,Countdown Lynmall,19/06/21,4,Saturday
+539,Countdown Lynmall,20/06/21,0,Sunday
+540,Countdown Lynmall,21/06/21,6,Monday
+541,Countdown Lynmall,22/06/21,8,Tuesday
+542,Countdown Lynmall,23/06/21,5,Wednesday
+543,Countdown Lynmall,24/06/21,9,Thursday
+544,Countdown Lynmall,25/06/21,9,Friday
+545,Countdown Lynmall,26/06/21,5,Saturday
+546,Countdown Lynmall,27/06/21,0,Sunday
+547,Countdown Lynmall,28/06/21,7,Monday
+548,Countdown Lynmall,29/06/21,9,Tuesday
+549,Countdown Lynmall,30/06/21,8,Wednesday
+550,Countdown Lynmall,1/07/21,4,Thursday
+551,Countdown Lynmall,2/07/21,8,Friday
+552,Countdown Lynmall,3/07/21,5,Saturday
+553,Countdown Lynmall,4/07/21,0,Sunday
+554,Countdown Lynmall,5/07/21,6,Monday
+555,Countdown Lynmall,6/07/21,7,Tuesday
+556,Countdown Lynmall,7/07/21,7,Wednesday
+557,Countdown Lynmall,8/07/21,6,Thursday
+558,Countdown Lynmall,9/07/21,9,Friday
+559,Countdown Lynmall,10/07/21,2,Saturday
+560,Countdown Lynmall,11/07/21,0,Sunday
+561,Countdown Mairangi Bay,14/06/21,7,Monday
+562,Countdown Mairangi Bay,15/06/21,7,Tuesday
+563,Countdown Mairangi Bay,16/06/21,4,Wednesday
+564,Countdown Mairangi Bay,17/06/21,11,Thursday
+565,Countdown Mairangi Bay,18/06/21,8,Friday
+566,Countdown Mairangi Bay,19/06/21,2,Saturday
+567,Countdown Mairangi Bay,20/06/21,0,Sunday
+568,Countdown Mairangi Bay,21/06/21,7,Monday
+569,Countdown Mairangi Bay,22/06/21,9,Tuesday
+570,Countdown Mairangi Bay,23/06/21,9,Wednesday
+571,Countdown Mairangi Bay,24/06/21,15,Thursday
+572,Countdown Mairangi Bay,25/06/21,10,Friday
+573,Countdown Mairangi Bay,26/06/21,5,Saturday
+574,Countdown Mairangi Bay,27/06/21,0,Sunday
+575,Countdown Mairangi Bay,28/06/21,9,Monday
+576,Countdown Mairangi Bay,29/06/21,7,Tuesday
+577,Countdown Mairangi Bay,30/06/21,8,Wednesday
+578,Countdown Mairangi Bay,1/07/21,10,Thursday
+579,Countdown Mairangi Bay,2/07/21,9,Friday
+580,Countdown Mairangi Bay,3/07/21,4,Saturday
+581,Countdown Mairangi Bay,4/07/21,0,Sunday
+582,Countdown Mairangi Bay,5/07/21,9,Monday
+583,Countdown Mairangi Bay,6/07/21,7,Tuesday
+584,Countdown Mairangi Bay,7/07/21,9,Wednesday
+585,Countdown Mairangi Bay,8/07/21,9,Thursday
+586,Countdown Mairangi Bay,9/07/21,10,Friday
+587,Countdown Mairangi Bay,10/07/21,3,Saturday
+588,Countdown Mairangi Bay,11/07/21,0,Sunday
+589,Countdown Mangere East,14/06/21,9,Monday
+590,Countdown Mangere East,15/06/21,9,Tuesday
+591,Countdown Mangere East,16/06/21,7,Wednesday
+592,Countdown Mangere East,17/06/21,9,Thursday
+593,Countdown Mangere East,18/06/21,6,Friday
+594,Countdown Mangere East,19/06/21,4,Saturday
+595,Countdown Mangere East,20/06/21,0,Sunday
+596,Countdown Mangere East,21/06/21,6,Monday
+597,Countdown Mangere East,22/06/21,6,Tuesday
+598,Countdown Mangere East,23/06/21,9,Wednesday
+599,Countdown Mangere East,24/06/21,10,Thursday
+600,Countdown Mangere East,25/06/21,8,Friday
+601,Countdown Mangere East,26/06/21,3,Saturday
+602,Countdown Mangere East,27/06/21,0,Sunday
+603,Countdown Mangere East,28/06/21,12,Monday
+604,Countdown Mangere East,29/06/21,6,Tuesday
+605,Countdown Mangere East,30/06/21,7,Wednesday
+606,Countdown Mangere East,1/07/21,7,Thursday
+607,Countdown Mangere East,2/07/21,10,Friday
+608,Countdown Mangere East,3/07/21,4,Saturday
+609,Countdown Mangere East,4/07/21,0,Sunday
+610,Countdown Mangere East,5/07/21,9,Monday
+611,Countdown Mangere East,6/07/21,5,Tuesday
+612,Countdown Mangere East,7/07/21,6,Wednesday
+613,Countdown Mangere East,8/07/21,10,Thursday
+614,Countdown Mangere East,9/07/21,8,Friday
+615,Countdown Mangere East,10/07/21,3,Saturday
+616,Countdown Mangere East,11/07/21,0,Sunday
+617,Countdown Mangere Mall,14/06/21,9,Monday
+618,Countdown Mangere Mall,15/06/21,4,Tuesday
+619,Countdown Mangere Mall,16/06/21,4,Wednesday
+620,Countdown Mangere Mall,17/06/21,7,Thursday
+621,Countdown Mangere Mall,18/06/21,13,Friday
+622,Countdown Mangere Mall,19/06/21,2,Saturday
+623,Countdown Mangere Mall,20/06/21,0,Sunday
+624,Countdown Mangere Mall,21/06/21,9,Monday
+625,Countdown Mangere Mall,22/06/21,7,Tuesday
+626,Countdown Mangere Mall,23/06/21,10,Wednesday
+627,Countdown Mangere Mall,24/06/21,9,Thursday
+628,Countdown Mangere Mall,25/06/21,5,Friday
+629,Countdown Mangere Mall,26/06/21,3,Saturday
+630,Countdown Mangere Mall,27/06/21,0,Sunday
+631,Countdown Mangere Mall,28/06/21,3,Monday
+632,Countdown Mangere Mall,29/06/21,4,Tuesday
+633,Countdown Mangere Mall,30/06/21,9,Wednesday
+634,Countdown Mangere Mall,1/07/21,7,Thursday
+635,Countdown Mangere Mall,2/07/21,7,Friday
+636,Countdown Mangere Mall,3/07/21,4,Saturday
+637,Countdown Mangere Mall,4/07/21,0,Sunday
+638,Countdown Mangere Mall,5/07/21,7,Monday
+639,Countdown Mangere Mall,6/07/21,7,Tuesday
+640,Countdown Mangere Mall,7/07/21,9,Wednesday
+641,Countdown Mangere Mall,8/07/21,7,Thursday
+642,Countdown Mangere Mall,9/07/21,6,Friday
+643,Countdown Mangere Mall,10/07/21,6,Saturday
+644,Countdown Mangere Mall,11/07/21,0,Sunday
+645,Countdown Manukau,14/06/21,8,Monday
+646,Countdown Manukau,15/06/21,9,Tuesday
+647,Countdown Manukau,16/06/21,5,Wednesday
+648,Countdown Manukau,17/06/21,8,Thursday
+649,Countdown Manukau,18/06/21,5,Friday
+650,Countdown Manukau,19/06/21,6,Saturday
+651,Countdown Manukau,20/06/21,0,Sunday
+652,Countdown Manukau,21/06/21,5,Monday
+653,Countdown Manukau,22/06/21,9,Tuesday
+654,Countdown Manukau,23/06/21,9,Wednesday
+655,Countdown Manukau,24/06/21,3,Thursday
+656,Countdown Manukau,25/06/21,10,Friday
+657,Countdown Manukau,26/06/21,6,Saturday
+658,Countdown Manukau,27/06/21,0,Sunday
+659,Countdown Manukau,28/06/21,7,Monday
+660,Countdown Manukau,29/06/21,8,Tuesday
+661,Countdown Manukau,30/06/21,10,Wednesday
+662,Countdown Manukau,1/07/21,10,Thursday
+663,Countdown Manukau,2/07/21,8,Friday
+664,Countdown Manukau,3/07/21,6,Saturday
+665,Countdown Manukau,4/07/21,0,Sunday
+666,Countdown Manukau,5/07/21,5,Monday
+667,Countdown Manukau,6/07/21,11,Tuesday
+668,Countdown Manukau,7/07/21,8,Wednesday
+669,Countdown Manukau,8/07/21,5,Thursday
+670,Countdown Manukau,9/07/21,8,Friday
+671,Countdown Manukau,10/07/21,6,Saturday
+672,Countdown Manukau,11/07/21,0,Sunday
+673,Countdown Manukau Mall,14/06/21,8,Monday
+674,Countdown Manukau Mall,15/06/21,10,Tuesday
+675,Countdown Manukau Mall,16/06/21,8,Wednesday
+676,Countdown Manukau Mall,17/06/21,4,Thursday
+677,Countdown Manukau Mall,18/06/21,8,Friday
+678,Countdown Manukau Mall,19/06/21,5,Saturday
+679,Countdown Manukau Mall,20/06/21,0,Sunday
+680,Countdown Manukau Mall,21/06/21,8,Monday
+681,Countdown Manukau Mall,22/06/21,11,Tuesday
+682,Countdown Manukau Mall,23/06/21,10,Wednesday
+683,Countdown Manukau Mall,24/06/21,8,Thursday
+684,Countdown Manukau Mall,25/06/21,8,Friday
+685,Countdown Manukau Mall,26/06/21,2,Saturday
+686,Countdown Manukau Mall,27/06/21,0,Sunday
+687,Countdown Manukau Mall,28/06/21,11,Monday
+688,Countdown Manukau Mall,29/06/21,12,Tuesday
+689,Countdown Manukau Mall,30/06/21,12,Wednesday
+690,Countdown Manukau Mall,1/07/21,6,Thursday
+691,Countdown Manukau Mall,2/07/21,9,Friday
+692,Countdown Manukau Mall,3/07/21,3,Saturday
+693,Countdown Manukau Mall,4/07/21,0,Sunday
+694,Countdown Manukau Mall,5/07/21,5,Monday
+695,Countdown Manukau Mall,6/07/21,7,Tuesday
+696,Countdown Manukau Mall,7/07/21,6,Wednesday
+697,Countdown Manukau Mall,8/07/21,6,Thursday
+698,Countdown Manukau Mall,9/07/21,10,Friday
+699,Countdown Manukau Mall,10/07/21,5,Saturday
+700,Countdown Manukau Mall,11/07/21,0,Sunday
+701,Countdown Manurewa,14/06/21,6,Monday
+702,Countdown Manurewa,15/06/21,8,Tuesday
+703,Countdown Manurewa,16/06/21,7,Wednesday
+704,Countdown Manurewa,17/06/21,8,Thursday
+705,Countdown Manurewa,18/06/21,11,Friday
+706,Countdown Manurewa,19/06/21,4,Saturday
+707,Countdown Manurewa,20/06/21,0,Sunday
+708,Countdown Manurewa,21/06/21,8,Monday
+709,Countdown Manurewa,22/06/21,5,Tuesday
+710,Countdown Manurewa,23/06/21,7,Wednesday
+711,Countdown Manurewa,24/06/21,11,Thursday
+712,Countdown Manurewa,25/06/21,12,Friday
+713,Countdown Manurewa,26/06/21,2,Saturday
+714,Countdown Manurewa,27/06/21,0,Sunday
+715,Countdown Manurewa,28/06/21,8,Monday
+716,Countdown Manurewa,29/06/21,9,Tuesday
+717,Countdown Manurewa,30/06/21,5,Wednesday
+718,Countdown Manurewa,1/07/21,8,Thursday
+719,Countdown Manurewa,2/07/21,8,Friday
+720,Countdown Manurewa,3/07/21,6,Saturday
+721,Countdown Manurewa,4/07/21,0,Sunday
+722,Countdown Manurewa,5/07/21,9,Monday
+723,Countdown Manurewa,6/07/21,8,Tuesday
+724,Countdown Manurewa,7/07/21,10,Wednesday
+725,Countdown Manurewa,8/07/21,7,Thursday
+726,Countdown Manurewa,9/07/21,6,Friday
+727,Countdown Manurewa,10/07/21,2,Saturday
+728,Countdown Manurewa,11/07/21,0,Sunday
+729,Countdown Meadowbank,14/06/21,11,Monday
+730,Countdown Meadowbank,15/06/21,4,Tuesday
+731,Countdown Meadowbank,16/06/21,8,Wednesday
+732,Countdown Meadowbank,17/06/21,12,Thursday
+733,Countdown Meadowbank,18/06/21,7,Friday
+734,Countdown Meadowbank,19/06/21,3,Saturday
+735,Countdown Meadowbank,20/06/21,0,Sunday
+736,Countdown Meadowbank,21/06/21,7,Monday
+737,Countdown Meadowbank,22/06/21,7,Tuesday
+738,Countdown Meadowbank,23/06/21,8,Wednesday
+739,Countdown Meadowbank,24/06/21,7,Thursday
+740,Countdown Meadowbank,25/06/21,9,Friday
+741,Countdown Meadowbank,26/06/21,5,Saturday
+742,Countdown Meadowbank,27/06/21,0,Sunday
+743,Countdown Meadowbank,28/06/21,11,Monday
+744,Countdown Meadowbank,29/06/21,5,Tuesday
+745,Countdown Meadowbank,30/06/21,6,Wednesday
+746,Countdown Meadowbank,1/07/21,8,Thursday
+747,Countdown Meadowbank,2/07/21,10,Friday
+748,Countdown Meadowbank,3/07/21,4,Saturday
+749,Countdown Meadowbank,4/07/21,0,Sunday
+750,Countdown Meadowbank,5/07/21,11,Monday
+751,Countdown Meadowbank,6/07/21,6,Tuesday
+752,Countdown Meadowbank,7/07/21,10,Wednesday
+753,Countdown Meadowbank,8/07/21,4,Thursday
+754,Countdown Meadowbank,9/07/21,9,Friday
+755,Countdown Meadowbank,10/07/21,5,Saturday
+756,Countdown Meadowbank,11/07/21,0,Sunday
+757,Countdown Meadowlands,14/06/21,6,Monday
+758,Countdown Meadowlands,15/06/21,9,Tuesday
+759,Countdown Meadowlands,16/06/21,12,Wednesday
+760,Countdown Meadowlands,17/06/21,6,Thursday
+761,Countdown Meadowlands,18/06/21,11,Friday
+762,Countdown Meadowlands,19/06/21,3,Saturday
+763,Countdown Meadowlands,20/06/21,0,Sunday
+764,Countdown Meadowlands,21/06/21,10,Monday
+765,Countdown Meadowlands,22/06/21,10,Tuesday
+766,Countdown Meadowlands,23/06/21,9,Wednesday
+767,Countdown Meadowlands,24/06/21,8,Thursday
+768,Countdown Meadowlands,25/06/21,6,Friday
+769,Countdown Meadowlands,26/06/21,3,Saturday
+770,Countdown Meadowlands,27/06/21,0,Sunday
+771,Countdown Meadowlands,28/06/21,8,Monday
+772,Countdown Meadowlands,29/06/21,10,Tuesday
+773,Countdown Meadowlands,30/06/21,5,Wednesday
+774,Countdown Meadowlands,1/07/21,11,Thursday
+775,Countdown Meadowlands,2/07/21,7,Friday
+776,Countdown Meadowlands,3/07/21,2,Saturday
+777,Countdown Meadowlands,4/07/21,0,Sunday
+778,Countdown Meadowlands,5/07/21,9,Monday
+779,Countdown Meadowlands,6/07/21,8,Tuesday
+780,Countdown Meadowlands,7/07/21,5,Wednesday
+781,Countdown Meadowlands,8/07/21,5,Thursday
+782,Countdown Meadowlands,9/07/21,8,Friday
+783,Countdown Meadowlands,10/07/21,4,Saturday
+784,Countdown Meadowlands,11/07/21,0,Sunday
+785,Countdown Milford,14/06/21,9,Monday
+786,Countdown Milford,15/06/21,5,Tuesday
+787,Countdown Milford,16/06/21,12,Wednesday
+788,Countdown Milford,17/06/21,6,Thursday
+789,Countdown Milford,18/06/21,9,Friday
+790,Countdown Milford,19/06/21,2,Saturday
+791,Countdown Milford,20/06/21,0,Sunday
+792,Countdown Milford,21/06/21,5,Monday
+793,Countdown Milford,22/06/21,9,Tuesday
+794,Countdown Milford,23/06/21,10,Wednesday
+795,Countdown Milford,24/06/21,6,Thursday
+796,Countdown Milford,25/06/21,6,Friday
+797,Countdown Milford,26/06/21,3,Saturday
+798,Countdown Milford,27/06/21,0,Sunday
+799,Countdown Milford,28/06/21,11,Monday
+800,Countdown Milford,29/06/21,4,Tuesday
+801,Countdown Milford,30/06/21,10,Wednesday
+802,Countdown Milford,1/07/21,5,Thursday
+803,Countdown Milford,2/07/21,11,Friday
+804,Countdown Milford,3/07/21,3,Saturday
+805,Countdown Milford,4/07/21,0,Sunday
+806,Countdown Milford,5/07/21,7,Monday
+807,Countdown Milford,6/07/21,12,Tuesday
+808,Countdown Milford,7/07/21,11,Wednesday
+809,Countdown Milford,8/07/21,10,Thursday
+810,Countdown Milford,9/07/21,7,Friday
+811,Countdown Milford,10/07/21,6,Saturday
+812,Countdown Milford,11/07/21,0,Sunday
+813,Countdown Mt Eden,14/06/21,9,Monday
+814,Countdown Mt Eden,15/06/21,6,Tuesday
+815,Countdown Mt Eden,16/06/21,10,Wednesday
+816,Countdown Mt Eden,17/06/21,5,Thursday
+817,Countdown Mt Eden,18/06/21,6,Friday
+818,Countdown Mt Eden,19/06/21,5,Saturday
+819,Countdown Mt Eden,20/06/21,0,Sunday
+820,Countdown Mt Eden,21/06/21,10,Monday
+821,Countdown Mt Eden,22/06/21,11,Tuesday
+822,Countdown Mt Eden,23/06/21,10,Wednesday
+823,Countdown Mt Eden,24/06/21,4,Thursday
+824,Countdown Mt Eden,25/06/21,11,Friday
+825,Countdown Mt Eden,26/06/21,3,Saturday
+826,Countdown Mt Eden,27/06/21,0,Sunday
+827,Countdown Mt Eden,28/06/21,3,Monday
+828,Countdown Mt Eden,29/06/21,6,Tuesday
+829,Countdown Mt Eden,30/06/21,10,Wednesday
+830,Countdown Mt Eden,1/07/21,8,Thursday
+831,Countdown Mt Eden,2/07/21,13,Friday
+832,Countdown Mt Eden,3/07/21,6,Saturday
+833,Countdown Mt Eden,4/07/21,0,Sunday
+834,Countdown Mt Eden,5/07/21,5,Monday
+835,Countdown Mt Eden,6/07/21,5,Tuesday
+836,Countdown Mt Eden,7/07/21,5,Wednesday
+837,Countdown Mt Eden,8/07/21,8,Thursday
+838,Countdown Mt Eden,9/07/21,8,Friday
+839,Countdown Mt Eden,10/07/21,5,Saturday
+840,Countdown Mt Eden,11/07/21,0,Sunday
+841,Countdown Mt Roskill,14/06/21,6,Monday
+842,Countdown Mt Roskill,15/06/21,9,Tuesday
+843,Countdown Mt Roskill,16/06/21,6,Wednesday
+844,Countdown Mt Roskill,17/06/21,7,Thursday
+845,Countdown Mt Roskill,18/06/21,10,Friday
+846,Countdown Mt Roskill,19/06/21,4,Saturday
+847,Countdown Mt Roskill,20/06/21,0,Sunday
+848,Countdown Mt Roskill,21/06/21,11,Monday
+849,Countdown Mt Roskill,22/06/21,8,Tuesday
+850,Countdown Mt Roskill,23/06/21,5,Wednesday
+851,Countdown Mt Roskill,24/06/21,8,Thursday
+852,Countdown Mt Roskill,25/06/21,6,Friday
+853,Countdown Mt Roskill,26/06/21,5,Saturday
+854,Countdown Mt Roskill,27/06/21,0,Sunday
+855,Countdown Mt Roskill,28/06/21,8,Monday
+856,Countdown Mt Roskill,29/06/21,7,Tuesday
+857,Countdown Mt Roskill,30/06/21,5,Wednesday
+858,Countdown Mt Roskill,1/07/21,7,Thursday
+859,Countdown Mt Roskill,2/07/21,8,Friday
+860,Countdown Mt Roskill,3/07/21,2,Saturday
+861,Countdown Mt Roskill,4/07/21,0,Sunday
+862,Countdown Mt Roskill,5/07/21,10,Monday
+863,Countdown Mt Roskill,6/07/21,9,Tuesday
+864,Countdown Mt Roskill,7/07/21,11,Wednesday
+865,Countdown Mt Roskill,8/07/21,9,Thursday
+866,Countdown Mt Roskill,9/07/21,10,Friday
+867,Countdown Mt Roskill,10/07/21,6,Saturday
+868,Countdown Mt Roskill,11/07/21,0,Sunday
+869,Countdown Mt Wellington,14/06/21,9,Monday
+870,Countdown Mt Wellington,15/06/21,6,Tuesday
+871,Countdown Mt Wellington,16/06/21,8,Wednesday
+872,Countdown Mt Wellington,17/06/21,3,Thursday
+873,Countdown Mt Wellington,18/06/21,8,Friday
+874,Countdown Mt Wellington,19/06/21,6,Saturday
+875,Countdown Mt Wellington,20/06/21,0,Sunday
+876,Countdown Mt Wellington,21/06/21,13,Monday
+877,Countdown Mt Wellington,22/06/21,12,Tuesday
+878,Countdown Mt Wellington,23/06/21,7,Wednesday
+879,Countdown Mt Wellington,24/06/21,12,Thursday
+880,Countdown Mt Wellington,25/06/21,6,Friday
+881,Countdown Mt Wellington,26/06/21,3,Saturday
+882,Countdown Mt Wellington,27/06/21,0,Sunday
+883,Countdown Mt Wellington,28/06/21,8,Monday
+884,Countdown Mt Wellington,29/06/21,7,Tuesday
+885,Countdown Mt Wellington,30/06/21,7,Wednesday
+886,Countdown Mt Wellington,1/07/21,8,Thursday
+887,Countdown Mt Wellington,2/07/21,9,Friday
+888,Countdown Mt Wellington,3/07/21,4,Saturday
+889,Countdown Mt Wellington,4/07/21,0,Sunday
+890,Countdown Mt Wellington,5/07/21,12,Monday
+891,Countdown Mt Wellington,6/07/21,9,Tuesday
+892,Countdown Mt Wellington,7/07/21,12,Wednesday
+893,Countdown Mt Wellington,8/07/21,6,Thursday
+894,Countdown Mt Wellington,9/07/21,9,Friday
+895,Countdown Mt Wellington,10/07/21,2,Saturday
+896,Countdown Mt Wellington,11/07/21,0,Sunday
+897,Countdown Newmarket,14/06/21,7,Monday
+898,Countdown Newmarket,15/06/21,6,Tuesday
+899,Countdown Newmarket,16/06/21,11,Wednesday
+900,Countdown Newmarket,17/06/21,6,Thursday
+901,Countdown Newmarket,18/06/21,9,Friday
+902,Countdown Newmarket,19/06/21,2,Saturday
+903,Countdown Newmarket,20/06/21,0,Sunday
+904,Countdown Newmarket,21/06/21,5,Monday
+905,Countdown Newmarket,22/06/21,11,Tuesday
+906,Countdown Newmarket,23/06/21,11,Wednesday
+907,Countdown Newmarket,24/06/21,3,Thursday
+908,Countdown Newmarket,25/06/21,12,Friday
+909,Countdown Newmarket,26/06/21,4,Saturday
+910,Countdown Newmarket,27/06/21,0,Sunday
+911,Countdown Newmarket,28/06/21,4,Monday
+912,Countdown Newmarket,29/06/21,5,Tuesday
+913,Countdown Newmarket,30/06/21,6,Wednesday
+914,Countdown Newmarket,1/07/21,11,Thursday
+915,Countdown Newmarket,2/07/21,8,Friday
+916,Countdown Newmarket,3/07/21,4,Saturday
+917,Countdown Newmarket,4/07/21,0,Sunday
+918,Countdown Newmarket,5/07/21,6,Monday
+919,Countdown Newmarket,6/07/21,6,Tuesday
+920,Countdown Newmarket,7/07/21,8,Wednesday
+921,Countdown Newmarket,8/07/21,11,Thursday
+922,Countdown Newmarket,9/07/21,4,Friday
+923,Countdown Newmarket,10/07/21,3,Saturday
+924,Countdown Newmarket,11/07/21,0,Sunday
+925,Countdown Northcote,14/06/21,7,Monday
+926,Countdown Northcote,15/06/21,6,Tuesday
+927,Countdown Northcote,16/06/21,6,Wednesday
+928,Countdown Northcote,17/06/21,6,Thursday
+929,Countdown Northcote,18/06/21,10,Friday
+930,Countdown Northcote,19/06/21,3,Saturday
+931,Countdown Northcote,20/06/21,0,Sunday
+932,Countdown Northcote,21/06/21,9,Monday
+933,Countdown Northcote,22/06/21,6,Tuesday
+934,Countdown Northcote,23/06/21,6,Wednesday
+935,Countdown Northcote,24/06/21,11,Thursday
+936,Countdown Northcote,25/06/21,9,Friday
+937,Countdown Northcote,26/06/21,6,Saturday
+938,Countdown Northcote,27/06/21,0,Sunday
+939,Countdown Northcote,28/06/21,6,Monday
+940,Countdown Northcote,29/06/21,5,Tuesday
+941,Countdown Northcote,30/06/21,6,Wednesday
+942,Countdown Northcote,1/07/21,6,Thursday
+943,Countdown Northcote,2/07/21,9,Friday
+944,Countdown Northcote,3/07/21,3,Saturday
+945,Countdown Northcote,4/07/21,0,Sunday
+946,Countdown Northcote,5/07/21,7,Monday
+947,Countdown Northcote,6/07/21,9,Tuesday
+948,Countdown Northcote,7/07/21,7,Wednesday
+949,Countdown Northcote,8/07/21,8,Thursday
+950,Countdown Northcote,9/07/21,10,Friday
+951,Countdown Northcote,10/07/21,6,Saturday
+952,Countdown Northcote,11/07/21,0,Sunday
+953,Countdown Northwest,14/06/21,11,Monday
+954,Countdown Northwest,15/06/21,10,Tuesday
+955,Countdown Northwest,16/06/21,9,Wednesday
+956,Countdown Northwest,17/06/21,5,Thursday
+957,Countdown Northwest,18/06/21,9,Friday
+958,Countdown Northwest,19/06/21,2,Saturday
+959,Countdown Northwest,20/06/21,0,Sunday
+960,Countdown Northwest,21/06/21,8,Monday
+961,Countdown Northwest,22/06/21,9,Tuesday
+962,Countdown Northwest,23/06/21,7,Wednesday
+963,Countdown Northwest,24/06/21,6,Thursday
+964,Countdown Northwest,25/06/21,8,Friday
+965,Countdown Northwest,26/06/21,6,Saturday
+966,Countdown Northwest,27/06/21,0,Sunday
+967,Countdown Northwest,28/06/21,5,Monday
+968,Countdown Northwest,29/06/21,5,Tuesday
+969,Countdown Northwest,30/06/21,10,Wednesday
+970,Countdown Northwest,1/07/21,11,Thursday
+971,Countdown Northwest,2/07/21,9,Friday
+972,Countdown Northwest,3/07/21,2,Saturday
+973,Countdown Northwest,4/07/21,0,Sunday
+974,Countdown Northwest,5/07/21,6,Monday
+975,Countdown Northwest,6/07/21,8,Tuesday
+976,Countdown Northwest,7/07/21,5,Wednesday
+977,Countdown Northwest,8/07/21,11,Thursday
+978,Countdown Northwest,9/07/21,6,Friday
+979,Countdown Northwest,10/07/21,3,Saturday
+980,Countdown Northwest,11/07/21,0,Sunday
+981,Countdown Onehunga,14/06/21,7,Monday
+982,Countdown Onehunga,15/06/21,7,Tuesday
+983,Countdown Onehunga,16/06/21,7,Wednesday
+984,Countdown Onehunga,17/06/21,11,Thursday
+985,Countdown Onehunga,18/06/21,6,Friday
+986,Countdown Onehunga,19/06/21,6,Saturday
+987,Countdown Onehunga,20/06/21,0,Sunday
+988,Countdown Onehunga,21/06/21,4,Monday
+989,Countdown Onehunga,22/06/21,7,Tuesday
+990,Countdown Onehunga,23/06/21,8,Wednesday
+991,Countdown Onehunga,24/06/21,10,Thursday
+992,Countdown Onehunga,25/06/21,9,Friday
+993,Countdown Onehunga,26/06/21,3,Saturday
+994,Countdown Onehunga,27/06/21,0,Sunday
+995,Countdown Onehunga,28/06/21,4,Monday
+996,Countdown Onehunga,29/06/21,6,Tuesday
+997,Countdown Onehunga,30/06/21,7,Wednesday
+998,Countdown Onehunga,1/07/21,8,Thursday
+999,Countdown Onehunga,2/07/21,11,Friday
+1000,Countdown Onehunga,3/07/21,2,Saturday
+1001,Countdown Onehunga,4/07/21,0,Sunday
+1002,Countdown Onehunga,5/07/21,12,Monday
+1003,Countdown Onehunga,6/07/21,8,Tuesday
+1004,Countdown Onehunga,7/07/21,6,Wednesday
+1005,Countdown Onehunga,8/07/21,9,Thursday
+1006,Countdown Onehunga,9/07/21,7,Friday
+1007,Countdown Onehunga,10/07/21,4,Saturday
+1008,Countdown Onehunga,11/07/21,0,Sunday
+1009,Countdown Pakuranga,14/06/21,11,Monday
+1010,Countdown Pakuranga,15/06/21,8,Tuesday
+1011,Countdown Pakuranga,16/06/21,5,Wednesday
+1012,Countdown Pakuranga,17/06/21,6,Thursday
+1013,Countdown Pakuranga,18/06/21,7,Friday
+1014,Countdown Pakuranga,19/06/21,2,Saturday
+1015,Countdown Pakuranga,20/06/21,0,Sunday
+1016,Countdown Pakuranga,21/06/21,8,Monday
+1017,Countdown Pakuranga,22/06/21,5,Tuesday
+1018,Countdown Pakuranga,23/06/21,8,Wednesday
+1019,Countdown Pakuranga,24/06/21,7,Thursday
+1020,Countdown Pakuranga,25/06/21,10,Friday
+1021,Countdown Pakuranga,26/06/21,4,Saturday
+1022,Countdown Pakuranga,27/06/21,0,Sunday
+1023,Countdown Pakuranga,28/06/21,6,Monday
+1024,Countdown Pakuranga,29/06/21,10,Tuesday
+1025,Countdown Pakuranga,30/06/21,8,Wednesday
+1026,Countdown Pakuranga,1/07/21,10,Thursday
+1027,Countdown Pakuranga,2/07/21,4,Friday
+1028,Countdown Pakuranga,3/07/21,3,Saturday
+1029,Countdown Pakuranga,4/07/21,0,Sunday
+1030,Countdown Pakuranga,5/07/21,10,Monday
+1031,Countdown Pakuranga,6/07/21,8,Tuesday
+1032,Countdown Pakuranga,7/07/21,8,Wednesday
+1033,Countdown Pakuranga,8/07/21,4,Thursday
+1034,Countdown Pakuranga,9/07/21,8,Friday
+1035,Countdown Pakuranga,10/07/21,4,Saturday
+1036,Countdown Pakuranga,11/07/21,0,Sunday
+1037,Countdown Papakura,14/06/21,7,Monday
+1038,Countdown Papakura,15/06/21,5,Tuesday
+1039,Countdown Papakura,16/06/21,4,Wednesday
+1040,Countdown Papakura,17/06/21,7,Thursday
+1041,Countdown Papakura,18/06/21,5,Friday
+1042,Countdown Papakura,19/06/21,3,Saturday
+1043,Countdown Papakura,20/06/21,0,Sunday
+1044,Countdown Papakura,21/06/21,8,Monday
+1045,Countdown Papakura,22/06/21,6,Tuesday
+1046,Countdown Papakura,23/06/21,6,Wednesday
+1047,Countdown Papakura,24/06/21,5,Thursday
+1048,Countdown Papakura,25/06/21,5,Friday
+1049,Countdown Papakura,26/06/21,3,Saturday
+1050,Countdown Papakura,27/06/21,0,Sunday
+1051,Countdown Papakura,28/06/21,5,Monday
+1052,Countdown Papakura,29/06/21,8,Tuesday
+1053,Countdown Papakura,30/06/21,7,Wednesday
+1054,Countdown Papakura,1/07/21,7,Thursday
+1055,Countdown Papakura,2/07/21,7,Friday
+1056,Countdown Papakura,3/07/21,6,Saturday
+1057,Countdown Papakura,4/07/21,0,Sunday
+1058,Countdown Papakura,5/07/21,11,Monday
+1059,Countdown Papakura,6/07/21,8,Tuesday
+1060,Countdown Papakura,7/07/21,13,Wednesday
+1061,Countdown Papakura,8/07/21,10,Thursday
+1062,Countdown Papakura,9/07/21,10,Friday
+1063,Countdown Papakura,10/07/21,6,Saturday
+1064,Countdown Papakura,11/07/21,0,Sunday
+1065,Countdown Papatoetoe,14/06/21,9,Monday
+1066,Countdown Papatoetoe,15/06/21,10,Tuesday
+1067,Countdown Papatoetoe,16/06/21,8,Wednesday
+1068,Countdown Papatoetoe,17/06/21,5,Thursday
+1069,Countdown Papatoetoe,18/06/21,8,Friday
+1070,Countdown Papatoetoe,19/06/21,3,Saturday
+1071,Countdown Papatoetoe,20/06/21,0,Sunday
+1072,Countdown Papatoetoe,21/06/21,9,Monday
+1073,Countdown Papatoetoe,22/06/21,11,Tuesday
+1074,Countdown Papatoetoe,23/06/21,8,Wednesday
+1075,Countdown Papatoetoe,24/06/21,12,Thursday
+1076,Countdown Papatoetoe,25/06/21,7,Friday
+1077,Countdown Papatoetoe,26/06/21,2,Saturday
+1078,Countdown Papatoetoe,27/06/21,0,Sunday
+1079,Countdown Papatoetoe,28/06/21,7,Monday
+1080,Countdown Papatoetoe,29/06/21,13,Tuesday
+1081,Countdown Papatoetoe,30/06/21,8,Wednesday
+1082,Countdown Papatoetoe,1/07/21,10,Thursday
+1083,Countdown Papatoetoe,2/07/21,7,Friday
+1084,Countdown Papatoetoe,3/07/21,4,Saturday
+1085,Countdown Papatoetoe,4/07/21,0,Sunday
+1086,Countdown Papatoetoe,5/07/21,6,Monday
+1087,Countdown Papatoetoe,6/07/21,11,Tuesday
+1088,Countdown Papatoetoe,7/07/21,7,Wednesday
+1089,Countdown Papatoetoe,8/07/21,12,Thursday
+1090,Countdown Papatoetoe,9/07/21,7,Friday
+1091,Countdown Papatoetoe,10/07/21,2,Saturday
+1092,Countdown Papatoetoe,11/07/21,0,Sunday
+1093,Countdown Ponsonby,14/06/21,6,Monday
+1094,Countdown Ponsonby,15/06/21,10,Tuesday
+1095,Countdown Ponsonby,16/06/21,7,Wednesday
+1096,Countdown Ponsonby,17/06/21,11,Thursday
+1097,Countdown Ponsonby,18/06/21,12,Friday
+1098,Countdown Ponsonby,19/06/21,3,Saturday
+1099,Countdown Ponsonby,20/06/21,0,Sunday
+1100,Countdown Ponsonby,21/06/21,8,Monday
+1101,Countdown Ponsonby,22/06/21,3,Tuesday
+1102,Countdown Ponsonby,23/06/21,11,Wednesday
+1103,Countdown Ponsonby,24/06/21,11,Thursday
+1104,Countdown Ponsonby,25/06/21,9,Friday
+1105,Countdown Ponsonby,26/06/21,4,Saturday
+1106,Countdown Ponsonby,27/06/21,0,Sunday
+1107,Countdown Ponsonby,28/06/21,11,Monday
+1108,Countdown Ponsonby,29/06/21,9,Tuesday
+1109,Countdown Ponsonby,30/06/21,9,Wednesday
+1110,Countdown Ponsonby,1/07/21,5,Thursday
+1111,Countdown Ponsonby,2/07/21,10,Friday
+1112,Countdown Ponsonby,3/07/21,4,Saturday
+1113,Countdown Ponsonby,4/07/21,0,Sunday
+1114,Countdown Ponsonby,5/07/21,13,Monday
+1115,Countdown Ponsonby,6/07/21,5,Tuesday
+1116,Countdown Ponsonby,7/07/21,6,Wednesday
+1117,Countdown Ponsonby,8/07/21,6,Thursday
+1118,Countdown Ponsonby,9/07/21,11,Friday
+1119,Countdown Ponsonby,10/07/21,2,Saturday
+1120,Countdown Ponsonby,11/07/21,0,Sunday
+1121,Countdown Pt Chevalier,14/06/21,7,Monday
+1122,Countdown Pt Chevalier,15/06/21,8,Tuesday
+1123,Countdown Pt Chevalier,16/06/21,9,Wednesday
+1124,Countdown Pt Chevalier,17/06/21,14,Thursday
+1125,Countdown Pt Chevalier,18/06/21,7,Friday
+1126,Countdown Pt Chevalier,19/06/21,3,Saturday
+1127,Countdown Pt Chevalier,20/06/21,0,Sunday
+1128,Countdown Pt Chevalier,21/06/21,8,Monday
+1129,Countdown Pt Chevalier,22/06/21,11,Tuesday
+1130,Countdown Pt Chevalier,23/06/21,11,Wednesday
+1131,Countdown Pt Chevalier,24/06/21,8,Thursday
+1132,Countdown Pt Chevalier,25/06/21,10,Friday
+1133,Countdown Pt Chevalier,26/06/21,5,Saturday
+1134,Countdown Pt Chevalier,27/06/21,0,Sunday
+1135,Countdown Pt Chevalier,28/06/21,6,Monday
+1136,Countdown Pt Chevalier,29/06/21,6,Tuesday
+1137,Countdown Pt Chevalier,30/06/21,5,Wednesday
+1138,Countdown Pt Chevalier,1/07/21,10,Thursday
+1139,Countdown Pt Chevalier,2/07/21,6,Friday
+1140,Countdown Pt Chevalier,3/07/21,5,Saturday
+1141,Countdown Pt Chevalier,4/07/21,0,Sunday
+1142,Countdown Pt Chevalier,5/07/21,8,Monday
+1143,Countdown Pt Chevalier,6/07/21,5,Tuesday
+1144,Countdown Pt Chevalier,7/07/21,8,Wednesday
+1145,Countdown Pt Chevalier,8/07/21,8,Thursday
+1146,Countdown Pt Chevalier,9/07/21,9,Friday
+1147,Countdown Pt Chevalier,10/07/21,5,Saturday
+1148,Countdown Pt Chevalier,11/07/21,0,Sunday
+1149,Countdown Roselands,14/06/21,8,Monday
+1150,Countdown Roselands,15/06/21,11,Tuesday
+1151,Countdown Roselands,16/06/21,7,Wednesday
+1152,Countdown Roselands,17/06/21,9,Thursday
+1153,Countdown Roselands,18/06/21,8,Friday
+1154,Countdown Roselands,19/06/21,6,Saturday
+1155,Countdown Roselands,20/06/21,0,Sunday
+1156,Countdown Roselands,21/06/21,4,Monday
+1157,Countdown Roselands,22/06/21,8,Tuesday
+1158,Countdown Roselands,23/06/21,7,Wednesday
+1159,Countdown Roselands,24/06/21,13,Thursday
+1160,Countdown Roselands,25/06/21,6,Friday
+1161,Countdown Roselands,26/06/21,5,Saturday
+1162,Countdown Roselands,27/06/21,0,Sunday
+1163,Countdown Roselands,28/06/21,8,Monday
+1164,Countdown Roselands,29/06/21,9,Tuesday
+1165,Countdown Roselands,30/06/21,12,Wednesday
+1166,Countdown Roselands,1/07/21,8,Thursday
+1167,Countdown Roselands,2/07/21,8,Friday
+1168,Countdown Roselands,3/07/21,3,Saturday
+1169,Countdown Roselands,4/07/21,0,Sunday
+1170,Countdown Roselands,5/07/21,7,Monday
+1171,Countdown Roselands,6/07/21,10,Tuesday
+1172,Countdown Roselands,7/07/21,11,Wednesday
+1173,Countdown Roselands,8/07/21,7,Thursday
+1174,Countdown Roselands,9/07/21,10,Friday
+1175,Countdown Roselands,10/07/21,5,Saturday
+1176,Countdown Roselands,11/07/21,0,Sunday
+1177,Countdown St Johns,14/06/21,9,Monday
+1178,Countdown St Johns,15/06/21,7,Tuesday
+1179,Countdown St Johns,16/06/21,7,Wednesday
+1180,Countdown St Johns,17/06/21,10,Thursday
+1181,Countdown St Johns,18/06/21,6,Friday
+1182,Countdown St Johns,19/06/21,5,Saturday
+1183,Countdown St Johns,20/06/21,0,Sunday
+1184,Countdown St Johns,21/06/21,10,Monday
+1185,Countdown St Johns,22/06/21,7,Tuesday
+1186,Countdown St Johns,23/06/21,7,Wednesday
+1187,Countdown St Johns,24/06/21,7,Thursday
+1188,Countdown St Johns,25/06/21,8,Friday
+1189,Countdown St Johns,26/06/21,2,Saturday
+1190,Countdown St Johns,27/06/21,0,Sunday
+1191,Countdown St Johns,28/06/21,10,Monday
+1192,Countdown St Johns,29/06/21,5,Tuesday
+1193,Countdown St Johns,30/06/21,5,Wednesday
+1194,Countdown St Johns,1/07/21,8,Thursday
+1195,Countdown St Johns,2/07/21,8,Friday
+1196,Countdown St Johns,3/07/21,3,Saturday
+1197,Countdown St Johns,4/07/21,0,Sunday
+1198,Countdown St Johns,5/07/21,5,Monday
+1199,Countdown St Johns,6/07/21,7,Tuesday
+1200,Countdown St Johns,7/07/21,4,Wednesday
+1201,Countdown St Johns,8/07/21,10,Thursday
+1202,Countdown St Johns,9/07/21,4,Friday
+1203,Countdown St Johns,10/07/21,4,Saturday
+1204,Countdown St Johns,11/07/21,0,Sunday
+1205,Countdown St Lukes,14/06/21,10,Monday
+1206,Countdown St Lukes,15/06/21,6,Tuesday
+1207,Countdown St Lukes,16/06/21,6,Wednesday
+1208,Countdown St Lukes,17/06/21,12,Thursday
+1209,Countdown St Lukes,18/06/21,4,Friday
+1210,Countdown St Lukes,19/06/21,2,Saturday
+1211,Countdown St Lukes,20/06/21,0,Sunday
+1212,Countdown St Lukes,21/06/21,5,Monday
+1213,Countdown St Lukes,22/06/21,7,Tuesday
+1214,Countdown St Lukes,23/06/21,6,Wednesday
+1215,Countdown St Lukes,24/06/21,5,Thursday
+1216,Countdown St Lukes,25/06/21,8,Friday
+1217,Countdown St Lukes,26/06/21,4,Saturday
+1218,Countdown St Lukes,27/06/21,0,Sunday
+1219,Countdown St Lukes,28/06/21,5,Monday
+1220,Countdown St Lukes,29/06/21,6,Tuesday
+1221,Countdown St Lukes,30/06/21,13,Wednesday
+1222,Countdown St Lukes,1/07/21,5,Thursday
+1223,Countdown St Lukes,2/07/21,9,Friday
+1224,Countdown St Lukes,3/07/21,2,Saturday
+1225,Countdown St Lukes,4/07/21,0,Sunday
+1226,Countdown St Lukes,5/07/21,7,Monday
+1227,Countdown St Lukes,6/07/21,10,Tuesday
+1228,Countdown St Lukes,7/07/21,5,Wednesday
+1229,Countdown St Lukes,8/07/21,6,Thursday
+1230,Countdown St Lukes,9/07/21,6,Friday
+1231,Countdown St Lukes,10/07/21,4,Saturday
+1232,Countdown St Lukes,11/07/21,0,Sunday
+1233,Countdown Sunnynook,14/06/21,9,Monday
+1234,Countdown Sunnynook,15/06/21,7,Tuesday
+1235,Countdown Sunnynook,16/06/21,8,Wednesday
+1236,Countdown Sunnynook,17/06/21,8,Thursday
+1237,Countdown Sunnynook,18/06/21,7,Friday
+1238,Countdown Sunnynook,19/06/21,2,Saturday
+1239,Countdown Sunnynook,20/06/21,0,Sunday
+1240,Countdown Sunnynook,21/06/21,8,Monday
+1241,Countdown Sunnynook,22/06/21,9,Tuesday
+1242,Countdown Sunnynook,23/06/21,9,Wednesday
+1243,Countdown Sunnynook,24/06/21,12,Thursday
+1244,Countdown Sunnynook,25/06/21,10,Friday
+1245,Countdown Sunnynook,26/06/21,2,Saturday
+1246,Countdown Sunnynook,27/06/21,0,Sunday
+1247,Countdown Sunnynook,28/06/21,10,Monday
+1248,Countdown Sunnynook,29/06/21,10,Tuesday
+1249,Countdown Sunnynook,30/06/21,10,Wednesday
+1250,Countdown Sunnynook,1/07/21,5,Thursday
+1251,Countdown Sunnynook,2/07/21,10,Friday
+1252,Countdown Sunnynook,3/07/21,5,Saturday
+1253,Countdown Sunnynook,4/07/21,0,Sunday
+1254,Countdown Sunnynook,5/07/21,6,Monday
+1255,Countdown Sunnynook,6/07/21,11,Tuesday
+1256,Countdown Sunnynook,7/07/21,6,Wednesday
+1257,Countdown Sunnynook,8/07/21,6,Thursday
+1258,Countdown Sunnynook,9/07/21,9,Friday
+1259,Countdown Sunnynook,10/07/21,4,Saturday
+1260,Countdown Sunnynook,11/07/21,0,Sunday
+1261,Countdown Sylvia Park,14/06/21,7,Monday
+1262,Countdown Sylvia Park,15/06/21,7,Tuesday
+1263,Countdown Sylvia Park,16/06/21,8,Wednesday
+1264,Countdown Sylvia Park,17/06/21,8,Thursday
+1265,Countdown Sylvia Park,18/06/21,9,Friday
+1266,Countdown Sylvia Park,19/06/21,2,Saturday
+1267,Countdown Sylvia Park,20/06/21,0,Sunday
+1268,Countdown Sylvia Park,21/06/21,10,Monday
+1269,Countdown Sylvia Park,22/06/21,8,Tuesday
+1270,Countdown Sylvia Park,23/06/21,5,Wednesday
+1271,Countdown Sylvia Park,24/06/21,15,Thursday
+1272,Countdown Sylvia Park,25/06/21,3,Friday
+1273,Countdown Sylvia Park,26/06/21,2,Saturday
+1274,Countdown Sylvia Park,27/06/21,0,Sunday
+1275,Countdown Sylvia Park,28/06/21,11,Monday
+1276,Countdown Sylvia Park,29/06/21,5,Tuesday
+1277,Countdown Sylvia Park,30/06/21,5,Wednesday
+1278,Countdown Sylvia Park,1/07/21,10,Thursday
+1279,Countdown Sylvia Park,2/07/21,10,Friday
+1280,Countdown Sylvia Park,3/07/21,5,Saturday
+1281,Countdown Sylvia Park,4/07/21,0,Sunday
+1282,Countdown Sylvia Park,5/07/21,7,Monday
+1283,Countdown Sylvia Park,6/07/21,6,Tuesday
+1284,Countdown Sylvia Park,7/07/21,12,Wednesday
+1285,Countdown Sylvia Park,8/07/21,7,Thursday
+1286,Countdown Sylvia Park,9/07/21,11,Friday
+1287,Countdown Sylvia Park,10/07/21,5,Saturday
+1288,Countdown Sylvia Park,11/07/21,0,Sunday
+1289,Countdown Takanini,14/06/21,6,Monday
+1290,Countdown Takanini,15/06/21,10,Tuesday
+1291,Countdown Takanini,16/06/21,10,Wednesday
+1292,Countdown Takanini,17/06/21,3,Thursday
+1293,Countdown Takanini,18/06/21,15,Friday
+1294,Countdown Takanini,19/06/21,5,Saturday
+1295,Countdown Takanini,20/06/21,0,Sunday
+1296,Countdown Takanini,21/06/21,8,Monday
+1297,Countdown Takanini,22/06/21,10,Tuesday
+1298,Countdown Takanini,23/06/21,8,Wednesday
+1299,Countdown Takanini,24/06/21,9,Thursday
+1300,Countdown Takanini,25/06/21,8,Friday
+1301,Countdown Takanini,26/06/21,5,Saturday
+1302,Countdown Takanini,27/06/21,0,Sunday
+1303,Countdown Takanini,28/06/21,8,Monday
+1304,Countdown Takanini,29/06/21,9,Tuesday
+1305,Countdown Takanini,30/06/21,10,Wednesday
+1306,Countdown Takanini,1/07/21,6,Thursday
+1307,Countdown Takanini,2/07/21,10,Friday
+1308,Countdown Takanini,3/07/21,5,Saturday
+1309,Countdown Takanini,4/07/21,0,Sunday
+1310,Countdown Takanini,5/07/21,5,Monday
+1311,Countdown Takanini,6/07/21,6,Tuesday
+1312,Countdown Takanini,7/07/21,5,Wednesday
+1313,Countdown Takanini,8/07/21,9,Thursday
+1314,Countdown Takanini,9/07/21,5,Friday
+1315,Countdown Takanini,10/07/21,3,Saturday
+1316,Countdown Takanini,11/07/21,0,Sunday
+1317,Countdown Takapuna,14/06/21,5,Monday
+1318,Countdown Takapuna,15/06/21,7,Tuesday
+1319,Countdown Takapuna,16/06/21,4,Wednesday
+1320,Countdown Takapuna,17/06/21,7,Thursday
+1321,Countdown Takapuna,18/06/21,8,Friday
+1322,Countdown Takapuna,19/06/21,2,Saturday
+1323,Countdown Takapuna,20/06/21,0,Sunday
+1324,Countdown Takapuna,21/06/21,8,Monday
+1325,Countdown Takapuna,22/06/21,7,Tuesday
+1326,Countdown Takapuna,23/06/21,5,Wednesday
+1327,Countdown Takapuna,24/06/21,6,Thursday
+1328,Countdown Takapuna,25/06/21,8,Friday
+1329,Countdown Takapuna,26/06/21,2,Saturday
+1330,Countdown Takapuna,27/06/21,0,Sunday
+1331,Countdown Takapuna,28/06/21,8,Monday
+1332,Countdown Takapuna,29/06/21,5,Tuesday
+1333,Countdown Takapuna,30/06/21,9,Wednesday
+1334,Countdown Takapuna,1/07/21,8,Thursday
+1335,Countdown Takapuna,2/07/21,10,Friday
+1336,Countdown Takapuna,3/07/21,4,Saturday
+1337,Countdown Takapuna,4/07/21,0,Sunday
+1338,Countdown Takapuna,5/07/21,10,Monday
+1339,Countdown Takapuna,6/07/21,6,Tuesday
+1340,Countdown Takapuna,7/07/21,13,Wednesday
+1341,Countdown Takapuna,8/07/21,8,Thursday
+1342,Countdown Takapuna,9/07/21,12,Friday
+1343,Countdown Takapuna,10/07/21,2,Saturday
+1344,Countdown Takapuna,11/07/21,0,Sunday
+1345,Countdown Te Atatu,14/06/21,9,Monday
+1346,Countdown Te Atatu,15/06/21,10,Tuesday
+1347,Countdown Te Atatu,16/06/21,6,Wednesday
+1348,Countdown Te Atatu,17/06/21,11,Thursday
+1349,Countdown Te Atatu,18/06/21,4,Friday
+1350,Countdown Te Atatu,19/06/21,2,Saturday
+1351,Countdown Te Atatu,20/06/21,0,Sunday
+1352,Countdown Te Atatu,21/06/21,12,Monday
+1353,Countdown Te Atatu,22/06/21,4,Tuesday
+1354,Countdown Te Atatu,23/06/21,6,Wednesday
+1355,Countdown Te Atatu,24/06/21,6,Thursday
+1356,Countdown Te Atatu,25/06/21,8,Friday
+1357,Countdown Te Atatu,26/06/21,2,Saturday
+1358,Countdown Te Atatu,27/06/21,0,Sunday
+1359,Countdown Te Atatu,28/06/21,6,Monday
+1360,Countdown Te Atatu,29/06/21,9,Tuesday
+1361,Countdown Te Atatu,30/06/21,6,Wednesday
+1362,Countdown Te Atatu,1/07/21,6,Thursday
+1363,Countdown Te Atatu,2/07/21,8,Friday
+1364,Countdown Te Atatu,3/07/21,5,Saturday
+1365,Countdown Te Atatu,4/07/21,0,Sunday
+1366,Countdown Te Atatu,5/07/21,8,Monday
+1367,Countdown Te Atatu,6/07/21,8,Tuesday
+1368,Countdown Te Atatu,7/07/21,5,Wednesday
+1369,Countdown Te Atatu,8/07/21,8,Thursday
+1370,Countdown Te Atatu,9/07/21,12,Friday
+1371,Countdown Te Atatu,10/07/21,6,Saturday
+1372,Countdown Te Atatu,11/07/21,0,Sunday
+1373,Countdown Te Atatu South,14/06/21,8,Monday
+1374,Countdown Te Atatu South,15/06/21,7,Tuesday
+1375,Countdown Te Atatu South,16/06/21,11,Wednesday
+1376,Countdown Te Atatu South,17/06/21,7,Thursday
+1377,Countdown Te Atatu South,18/06/21,12,Friday
+1378,Countdown Te Atatu South,19/06/21,5,Saturday
+1379,Countdown Te Atatu South,20/06/21,0,Sunday
+1380,Countdown Te Atatu South,21/06/21,9,Monday
+1381,Countdown Te Atatu South,22/06/21,9,Tuesday
+1382,Countdown Te Atatu South,23/06/21,7,Wednesday
+1383,Countdown Te Atatu South,24/06/21,8,Thursday
+1384,Countdown Te Atatu South,25/06/21,6,Friday
+1385,Countdown Te Atatu South,26/06/21,4,Saturday
+1386,Countdown Te Atatu South,27/06/21,0,Sunday
+1387,Countdown Te Atatu South,28/06/21,6,Monday
+1388,Countdown Te Atatu South,29/06/21,8,Tuesday
+1389,Countdown Te Atatu South,30/06/21,9,Wednesday
+1390,Countdown Te Atatu South,1/07/21,5,Thursday
+1391,Countdown Te Atatu South,2/07/21,4,Friday
+1392,Countdown Te Atatu South,3/07/21,2,Saturday
+1393,Countdown Te Atatu South,4/07/21,0,Sunday
+1394,Countdown Te Atatu South,5/07/21,9,Monday
+1395,Countdown Te Atatu South,6/07/21,10,Tuesday
+1396,Countdown Te Atatu South,7/07/21,5,Wednesday
+1397,Countdown Te Atatu South,8/07/21,8,Thursday
+1398,Countdown Te Atatu South,9/07/21,10,Friday
+1399,Countdown Te Atatu South,10/07/21,3,Saturday
+1400,Countdown Te Atatu South,11/07/21,0,Sunday
+1401,Countdown Three Kings,14/06/21,10,Monday
+1402,Countdown Three Kings,15/06/21,12,Tuesday
+1403,Countdown Three Kings,16/06/21,11,Wednesday
+1404,Countdown Three Kings,17/06/21,9,Thursday
+1405,Countdown Three Kings,18/06/21,11,Friday
+1406,Countdown Three Kings,19/06/21,2,Saturday
+1407,Countdown Three Kings,20/06/21,0,Sunday
+1408,Countdown Three Kings,21/06/21,9,Monday
+1409,Countdown Three Kings,22/06/21,11,Tuesday
+1410,Countdown Three Kings,23/06/21,8,Wednesday
+1411,Countdown Three Kings,24/06/21,7,Thursday
+1412,Countdown Three Kings,25/06/21,7,Friday
+1413,Countdown Three Kings,26/06/21,4,Saturday
+1414,Countdown Three Kings,27/06/21,0,Sunday
+1415,Countdown Three Kings,28/06/21,13,Monday
+1416,Countdown Three Kings,29/06/21,14,Tuesday
+1417,Countdown Three Kings,30/06/21,7,Wednesday
+1418,Countdown Three Kings,1/07/21,7,Thursday
+1419,Countdown Three Kings,2/07/21,8,Friday
+1420,Countdown Three Kings,3/07/21,4,Saturday
+1421,Countdown Three Kings,4/07/21,0,Sunday
+1422,Countdown Three Kings,5/07/21,6,Monday
+1423,Countdown Three Kings,6/07/21,6,Tuesday
+1424,Countdown Three Kings,7/07/21,7,Wednesday
+1425,Countdown Three Kings,8/07/21,10,Thursday
+1426,Countdown Three Kings,9/07/21,8,Friday
+1427,Countdown Three Kings,10/07/21,6,Saturday
+1428,Countdown Three Kings,11/07/21,0,Sunday
+1429,Countdown Victoria Street West,14/06/21,15,Monday
+1430,Countdown Victoria Street West,15/06/21,7,Tuesday
+1431,Countdown Victoria Street West,16/06/21,8,Wednesday
+1432,Countdown Victoria Street West,17/06/21,13,Thursday
+1433,Countdown Victoria Street West,18/06/21,12,Friday
+1434,Countdown Victoria Street West,19/06/21,5,Saturday
+1435,Countdown Victoria Street West,20/06/21,0,Sunday
+1436,Countdown Victoria Street West,21/06/21,4,Monday
+1437,Countdown Victoria Street West,22/06/21,10,Tuesday
+1438,Countdown Victoria Street West,23/06/21,9,Wednesday
+1439,Countdown Victoria Street West,24/06/21,8,Thursday
+1440,Countdown Victoria Street West,25/06/21,10,Friday
+1441,Countdown Victoria Street West,26/06/21,5,Saturday
+1442,Countdown Victoria Street West,27/06/21,0,Sunday
+1443,Countdown Victoria Street West,28/06/21,14,Monday
+1444,Countdown Victoria Street West,29/06/21,9,Tuesday
+1445,Countdown Victoria Street West,30/06/21,10,Wednesday
+1446,Countdown Victoria Street West,1/07/21,6,Thursday
+1447,Countdown Victoria Street West,2/07/21,10,Friday
+1448,Countdown Victoria Street West,3/07/21,2,Saturday
+1449,Countdown Victoria Street West,4/07/21,0,Sunday
+1450,Countdown Victoria Street West,5/07/21,8,Monday
+1451,Countdown Victoria Street West,6/07/21,8,Tuesday
+1452,Countdown Victoria Street West,7/07/21,8,Wednesday
+1453,Countdown Victoria Street West,8/07/21,8,Thursday
+1454,Countdown Victoria Street West,9/07/21,11,Friday
+1455,Countdown Victoria Street West,10/07/21,4,Saturday
+1456,Countdown Victoria Street West,11/07/21,0,Sunday
+1457,Countdown Westgate,14/06/21,7,Monday
+1458,Countdown Westgate,15/06/21,6,Tuesday
+1459,Countdown Westgate,16/06/21,6,Wednesday
+1460,Countdown Westgate,17/06/21,9,Thursday
+1461,Countdown Westgate,18/06/21,5,Friday
+1462,Countdown Westgate,19/06/21,5,Saturday
+1463,Countdown Westgate,20/06/21,0,Sunday
+1464,Countdown Westgate,21/06/21,6,Monday
+1465,Countdown Westgate,22/06/21,10,Tuesday
+1466,Countdown Westgate,23/06/21,13,Wednesday
+1467,Countdown Westgate,24/06/21,7,Thursday
+1468,Countdown Westgate,25/06/21,7,Friday
+1469,Countdown Westgate,26/06/21,6,Saturday
+1470,Countdown Westgate,27/06/21,0,Sunday
+1471,Countdown Westgate,28/06/21,5,Monday
+1472,Countdown Westgate,29/06/21,13,Tuesday
+1473,Countdown Westgate,30/06/21,10,Wednesday
+1474,Countdown Westgate,1/07/21,8,Thursday
+1475,Countdown Westgate,2/07/21,8,Friday
+1476,Countdown Westgate,3/07/21,5,Saturday
+1477,Countdown Westgate,4/07/21,0,Sunday
+1478,Countdown Westgate,5/07/21,11,Monday
+1479,Countdown Westgate,6/07/21,8,Tuesday
+1480,Countdown Westgate,7/07/21,9,Wednesday
+1481,Countdown Westgate,8/07/21,8,Thursday
+1482,Countdown Westgate,9/07/21,7,Friday
+1483,Countdown Westgate,10/07/21,6,Saturday
+1484,Countdown Westgate,11/07/21,0,Sunday
+1485,Countdown Metro Albert Street,14/06/21,6,Monday
+1486,Countdown Metro Albert Street,15/06/21,5,Tuesday
+1487,Countdown Metro Albert Street,16/06/21,7,Wednesday
+1488,Countdown Metro Albert Street,17/06/21,5,Thursday
+1489,Countdown Metro Albert Street,18/06/21,2,Friday
+1490,Countdown Metro Albert Street,19/06/21,0,Saturday
+1491,Countdown Metro Albert Street,20/06/21,0,Sunday
+1492,Countdown Metro Albert Street,21/06/21,5,Monday
+1493,Countdown Metro Albert Street,22/06/21,5,Tuesday
+1494,Countdown Metro Albert Street,23/06/21,3,Wednesday
+1495,Countdown Metro Albert Street,24/06/21,3,Thursday
+1496,Countdown Metro Albert Street,25/06/21,3,Friday
+1497,Countdown Metro Albert Street,26/06/21,0,Saturday
+1498,Countdown Metro Albert Street,27/06/21,0,Sunday
+1499,Countdown Metro Albert Street,28/06/21,3,Monday
+1500,Countdown Metro Albert Street,29/06/21,6,Tuesday
+1501,Countdown Metro Albert Street,30/06/21,6,Wednesday
+1502,Countdown Metro Albert Street,1/07/21,4,Thursday
+1503,Countdown Metro Albert Street,2/07/21,3,Friday
+1504,Countdown Metro Albert Street,3/07/21,0,Saturday
+1505,Countdown Metro Albert Street,4/07/21,0,Sunday
+1506,Countdown Metro Albert Street,5/07/21,4,Monday
+1507,Countdown Metro Albert Street,6/07/21,2,Tuesday
+1508,Countdown Metro Albert Street,7/07/21,3,Wednesday
+1509,Countdown Metro Albert Street,8/07/21,5,Thursday
+1510,Countdown Metro Albert Street,9/07/21,5,Friday
+1511,Countdown Metro Albert Street,10/07/21,0,Saturday
+1512,Countdown Metro Albert Street,11/07/21,0,Sunday
+1513,Countdown Metro Halsey Street,14/06/21,3,Monday
+1514,Countdown Metro Halsey Street,15/06/21,4,Tuesday
+1515,Countdown Metro Halsey Street,16/06/21,2,Wednesday
+1516,Countdown Metro Halsey Street,17/06/21,4,Thursday
+1517,Countdown Metro Halsey Street,18/06/21,3,Friday
+1518,Countdown Metro Halsey Street,19/06/21,0,Saturday
+1519,Countdown Metro Halsey Street,20/06/21,0,Sunday
+1520,Countdown Metro Halsey Street,21/06/21,7,Monday
+1521,Countdown Metro Halsey Street,22/06/21,5,Tuesday
+1522,Countdown Metro Halsey Street,23/06/21,3,Wednesday
+1523,Countdown Metro Halsey Street,24/06/21,9,Thursday
+1524,Countdown Metro Halsey Street,25/06/21,4,Friday
+1525,Countdown Metro Halsey Street,26/06/21,0,Saturday
+1526,Countdown Metro Halsey Street,27/06/21,0,Sunday
+1527,Countdown Metro Halsey Street,28/06/21,4,Monday
+1528,Countdown Metro Halsey Street,29/06/21,3,Tuesday
+1529,Countdown Metro Halsey Street,30/06/21,3,Wednesday
+1530,Countdown Metro Halsey Street,1/07/21,2,Thursday
+1531,Countdown Metro Halsey Street,2/07/21,3,Friday
+1532,Countdown Metro Halsey Street,3/07/21,0,Saturday
+1533,Countdown Metro Halsey Street,4/07/21,0,Sunday
+1534,Countdown Metro Halsey Street,5/07/21,2,Monday
+1535,Countdown Metro Halsey Street,6/07/21,3,Tuesday
+1536,Countdown Metro Halsey Street,7/07/21,4,Wednesday
+1537,Countdown Metro Halsey Street,8/07/21,4,Thursday
+1538,Countdown Metro Halsey Street,9/07/21,5,Friday
+1539,Countdown Metro Halsey Street,10/07/21,0,Saturday
+1540,Countdown Metro Halsey Street,11/07/21,0,Sunday
+1541,FreshChoice Glen Eden,14/06/21,5,Monday
+1542,FreshChoice Glen Eden,15/06/21,6,Tuesday
+1543,FreshChoice Glen Eden,16/06/21,3,Wednesday
+1544,FreshChoice Glen Eden,17/06/21,2,Thursday
+1545,FreshChoice Glen Eden,18/06/21,4,Friday
+1546,FreshChoice Glen Eden,19/06/21,0,Saturday
+1547,FreshChoice Glen Eden,20/06/21,0,Sunday
+1548,FreshChoice Glen Eden,21/06/21,5,Monday
+1549,FreshChoice Glen Eden,22/06/21,4,Tuesday
+1550,FreshChoice Glen Eden,23/06/21,3,Wednesday
+1551,FreshChoice Glen Eden,24/06/21,5,Thursday
+1552,FreshChoice Glen Eden,25/06/21,2,Friday
+1553,FreshChoice Glen Eden,26/06/21,0,Saturday
+1554,FreshChoice Glen Eden,27/06/21,0,Sunday
+1555,FreshChoice Glen Eden,28/06/21,5,Monday
+1556,FreshChoice Glen Eden,29/06/21,4,Tuesday
+1557,FreshChoice Glen Eden,30/06/21,3,Wednesday
+1558,FreshChoice Glen Eden,1/07/21,3,Thursday
+1559,FreshChoice Glen Eden,2/07/21,4,Friday
+1560,FreshChoice Glen Eden,3/07/21,0,Saturday
+1561,FreshChoice Glen Eden,4/07/21,0,Sunday
+1562,FreshChoice Glen Eden,5/07/21,3,Monday
+1563,FreshChoice Glen Eden,6/07/21,5,Tuesday
+1564,FreshChoice Glen Eden,7/07/21,8,Wednesday
+1565,FreshChoice Glen Eden,8/07/21,5,Thursday
+1566,FreshChoice Glen Eden,9/07/21,3,Friday
+1567,FreshChoice Glen Eden,10/07/21,0,Saturday
+1568,FreshChoice Glen Eden,11/07/21,0,Sunday
+1569,FreshChoice Half Moon Bay,14/06/21,3,Monday
+1570,FreshChoice Half Moon Bay,15/06/21,5,Tuesday
+1571,FreshChoice Half Moon Bay,16/06/21,6,Wednesday
+1572,FreshChoice Half Moon Bay,17/06/21,2,Thursday
+1573,FreshChoice Half Moon Bay,18/06/21,4,Friday
+1574,FreshChoice Half Moon Bay,19/06/21,0,Saturday
+1575,FreshChoice Half Moon Bay,20/06/21,0,Sunday
+1576,FreshChoice Half Moon Bay,21/06/21,3,Monday
+1577,FreshChoice Half Moon Bay,22/06/21,8,Tuesday
+1578,FreshChoice Half Moon Bay,23/06/21,5,Wednesday
+1579,FreshChoice Half Moon Bay,24/06/21,4,Thursday
+1580,FreshChoice Half Moon Bay,25/06/21,4,Friday
+1581,FreshChoice Half Moon Bay,26/06/21,0,Saturday
+1582,FreshChoice Half Moon Bay,27/06/21,0,Sunday
+1583,FreshChoice Half Moon Bay,28/06/21,4,Monday
+1584,FreshChoice Half Moon Bay,29/06/21,3,Tuesday
+1585,FreshChoice Half Moon Bay,30/06/21,4,Wednesday
+1586,FreshChoice Half Moon Bay,1/07/21,6,Thursday
+1587,FreshChoice Half Moon Bay,2/07/21,5,Friday
+1588,FreshChoice Half Moon Bay,3/07/21,0,Saturday
+1589,FreshChoice Half Moon Bay,4/07/21,0,Sunday
+1590,FreshChoice Half Moon Bay,5/07/21,6,Monday
+1591,FreshChoice Half Moon Bay,6/07/21,5,Tuesday
+1592,FreshChoice Half Moon Bay,7/07/21,4,Wednesday
+1593,FreshChoice Half Moon Bay,8/07/21,8,Thursday
+1594,FreshChoice Half Moon Bay,9/07/21,3,Friday
+1595,FreshChoice Half Moon Bay,10/07/21,0,Saturday
+1596,FreshChoice Half Moon Bay,11/07/21,0,Sunday
+1597,FreshChoice Mangere Bridge,14/06/21,7,Monday
+1598,FreshChoice Mangere Bridge,15/06/21,5,Tuesday
+1599,FreshChoice Mangere Bridge,16/06/21,3,Wednesday
+1600,FreshChoice Mangere Bridge,17/06/21,2,Thursday
+1601,FreshChoice Mangere Bridge,18/06/21,5,Friday
+1602,FreshChoice Mangere Bridge,19/06/21,0,Saturday
+1603,FreshChoice Mangere Bridge,20/06/21,0,Sunday
+1604,FreshChoice Mangere Bridge,21/06/21,4,Monday
+1605,FreshChoice Mangere Bridge,22/06/21,6,Tuesday
+1606,FreshChoice Mangere Bridge,23/06/21,4,Wednesday
+1607,FreshChoice Mangere Bridge,24/06/21,6,Thursday
+1608,FreshChoice Mangere Bridge,25/06/21,5,Friday
+1609,FreshChoice Mangere Bridge,26/06/21,0,Saturday
+1610,FreshChoice Mangere Bridge,27/06/21,0,Sunday
+1611,FreshChoice Mangere Bridge,28/06/21,8,Monday
+1612,FreshChoice Mangere Bridge,29/06/21,3,Tuesday
+1613,FreshChoice Mangere Bridge,30/06/21,6,Wednesday
+1614,FreshChoice Mangere Bridge,1/07/21,2,Thursday
+1615,FreshChoice Mangere Bridge,2/07/21,6,Friday
+1616,FreshChoice Mangere Bridge,3/07/21,0,Saturday
+1617,FreshChoice Mangere Bridge,4/07/21,0,Sunday
+1618,FreshChoice Mangere Bridge,5/07/21,5,Monday
+1619,FreshChoice Mangere Bridge,6/07/21,3,Tuesday
+1620,FreshChoice Mangere Bridge,7/07/21,7,Wednesday
+1621,FreshChoice Mangere Bridge,8/07/21,2,Thursday
+1622,FreshChoice Mangere Bridge,9/07/21,3,Friday
+1623,FreshChoice Mangere Bridge,10/07/21,0,Saturday
+1624,FreshChoice Mangere Bridge,11/07/21,0,Sunday
+1625,FreshChoice Otahuhu,14/06/21,4,Monday
+1626,FreshChoice Otahuhu,15/06/21,2,Tuesday
+1627,FreshChoice Otahuhu,16/06/21,5,Wednesday
+1628,FreshChoice Otahuhu,17/06/21,5,Thursday
+1629,FreshChoice Otahuhu,18/06/21,5,Friday
+1630,FreshChoice Otahuhu,19/06/21,0,Saturday
+1631,FreshChoice Otahuhu,20/06/21,0,Sunday
+1632,FreshChoice Otahuhu,21/06/21,4,Monday
+1633,FreshChoice Otahuhu,22/06/21,2,Tuesday
+1634,FreshChoice Otahuhu,23/06/21,4,Wednesday
+1635,FreshChoice Otahuhu,24/06/21,3,Thursday
+1636,FreshChoice Otahuhu,25/06/21,3,Friday
+1637,FreshChoice Otahuhu,26/06/21,0,Saturday
+1638,FreshChoice Otahuhu,27/06/21,0,Sunday
+1639,FreshChoice Otahuhu,28/06/21,4,Monday
+1640,FreshChoice Otahuhu,29/06/21,2,Tuesday
+1641,FreshChoice Otahuhu,30/06/21,5,Wednesday
+1642,FreshChoice Otahuhu,1/07/21,2,Thursday
+1643,FreshChoice Otahuhu,2/07/21,5,Friday
+1644,FreshChoice Otahuhu,3/07/21,0,Saturday
+1645,FreshChoice Otahuhu,4/07/21,0,Sunday
+1646,FreshChoice Otahuhu,5/07/21,5,Monday
+1647,FreshChoice Otahuhu,6/07/21,4,Tuesday
+1648,FreshChoice Otahuhu,7/07/21,3,Wednesday
+1649,FreshChoice Otahuhu,8/07/21,5,Thursday
+1650,FreshChoice Otahuhu,9/07/21,3,Friday
+1651,FreshChoice Otahuhu,10/07/21,0,Saturday
+1652,FreshChoice Otahuhu,11/07/21,0,Sunday
+1653,FreshChoice Ranui,14/06/21,3,Monday
+1654,FreshChoice Ranui,15/06/21,5,Tuesday
+1655,FreshChoice Ranui,16/06/21,3,Wednesday
+1656,FreshChoice Ranui,17/06/21,7,Thursday
+1657,FreshChoice Ranui,18/06/21,5,Friday
+1658,FreshChoice Ranui,19/06/21,0,Saturday
+1659,FreshChoice Ranui,20/06/21,0,Sunday
+1660,FreshChoice Ranui,21/06/21,4,Monday
+1661,FreshChoice Ranui,22/06/21,4,Tuesday
+1662,FreshChoice Ranui,23/06/21,6,Wednesday
+1663,FreshChoice Ranui,24/06/21,5,Thursday
+1664,FreshChoice Ranui,25/06/21,5,Friday
+1665,FreshChoice Ranui,26/06/21,0,Saturday
+1666,FreshChoice Ranui,27/06/21,0,Sunday
+1667,FreshChoice Ranui,28/06/21,3,Monday
+1668,FreshChoice Ranui,29/06/21,4,Tuesday
+1669,FreshChoice Ranui,30/06/21,5,Wednesday
+1670,FreshChoice Ranui,1/07/21,5,Thursday
+1671,FreshChoice Ranui,2/07/21,2,Friday
+1672,FreshChoice Ranui,3/07/21,0,Saturday
+1673,FreshChoice Ranui,4/07/21,0,Sunday
+1674,FreshChoice Ranui,5/07/21,4,Monday
+1675,FreshChoice Ranui,6/07/21,7,Tuesday
+1676,FreshChoice Ranui,7/07/21,6,Wednesday
+1677,FreshChoice Ranui,8/07/21,8,Thursday
+1678,FreshChoice Ranui,9/07/21,4,Friday
+1679,FreshChoice Ranui,10/07/21,0,Saturday
+1680,FreshChoice Ranui,11/07/21,0,Sunday
+1681,SuperValue Avondale,14/06/21,3,Monday
+1682,SuperValue Avondale,15/06/21,2,Tuesday
+1683,SuperValue Avondale,16/06/21,6,Wednesday
+1684,SuperValue Avondale,17/06/21,6,Thursday
+1685,SuperValue Avondale,18/06/21,4,Friday
+1686,SuperValue Avondale,19/06/21,0,Saturday
+1687,SuperValue Avondale,20/06/21,0,Sunday
+1688,SuperValue Avondale,21/06/21,3,Monday
+1689,SuperValue Avondale,22/06/21,8,Tuesday
+1690,SuperValue Avondale,23/06/21,5,Wednesday
+1691,SuperValue Avondale,24/06/21,3,Thursday
+1692,SuperValue Avondale,25/06/21,3,Friday
+1693,SuperValue Avondale,26/06/21,0,Saturday
+1694,SuperValue Avondale,27/06/21,0,Sunday
+1695,SuperValue Avondale,28/06/21,4,Monday
+1696,SuperValue Avondale,29/06/21,5,Tuesday
+1697,SuperValue Avondale,30/06/21,2,Wednesday
+1698,SuperValue Avondale,1/07/21,5,Thursday
+1699,SuperValue Avondale,2/07/21,5,Friday
+1700,SuperValue Avondale,3/07/21,0,Saturday
+1701,SuperValue Avondale,4/07/21,0,Sunday
+1702,SuperValue Avondale,5/07/21,5,Monday
+1703,SuperValue Avondale,6/07/21,5,Tuesday
+1704,SuperValue Avondale,7/07/21,5,Wednesday
+1705,SuperValue Avondale,8/07/21,5,Thursday
+1706,SuperValue Avondale,9/07/21,5,Friday
+1707,SuperValue Avondale,10/07/21,0,Saturday
+1708,SuperValue Avondale,11/07/21,0,Sunday
+1709,SuperValue Flatbush,14/06/21,6,Monday
+1710,SuperValue Flatbush,15/06/21,7,Tuesday
+1711,SuperValue Flatbush,16/06/21,4,Wednesday
+1712,SuperValue Flatbush,17/06/21,3,Thursday
+1713,SuperValue Flatbush,18/06/21,5,Friday
+1714,SuperValue Flatbush,19/06/21,0,Saturday
+1715,SuperValue Flatbush,20/06/21,0,Sunday
+1716,SuperValue Flatbush,21/06/21,4,Monday
+1717,SuperValue Flatbush,22/06/21,6,Tuesday
+1718,SuperValue Flatbush,23/06/21,4,Wednesday
+1719,SuperValue Flatbush,24/06/21,3,Thursday
+1720,SuperValue Flatbush,25/06/21,7,Friday
+1721,SuperValue Flatbush,26/06/21,0,Saturday
+1722,SuperValue Flatbush,27/06/21,0,Sunday
+1723,SuperValue Flatbush,28/06/21,7,Monday
+1724,SuperValue Flatbush,29/06/21,5,Tuesday
+1725,SuperValue Flatbush,30/06/21,3,Wednesday
+1726,SuperValue Flatbush,1/07/21,5,Thursday
+1727,SuperValue Flatbush,2/07/21,3,Friday
+1728,SuperValue Flatbush,3/07/21,0,Saturday
+1729,SuperValue Flatbush,4/07/21,0,Sunday
+1730,SuperValue Flatbush,5/07/21,5,Monday
+1731,SuperValue Flatbush,6/07/21,4,Tuesday
+1732,SuperValue Flatbush,7/07/21,5,Wednesday
+1733,SuperValue Flatbush,8/07/21,4,Thursday
+1734,SuperValue Flatbush,9/07/21,3,Friday
+1735,SuperValue Flatbush,10/07/21,0,Saturday
+1736,SuperValue Flatbush,11/07/21,0,Sunday
+1737,SuperValue Palomino,14/06/21,4,Monday
+1738,SuperValue Palomino,15/06/21,2,Tuesday
+1739,SuperValue Palomino,16/06/21,2,Wednesday
+1740,SuperValue Palomino,17/06/21,6,Thursday
+1741,SuperValue Palomino,18/06/21,3,Friday
+1742,SuperValue Palomino,19/06/21,0,Saturday
+1743,SuperValue Palomino,20/06/21,0,Sunday
+1744,SuperValue Palomino,21/06/21,7,Monday
+1745,SuperValue Palomino,22/06/21,6,Tuesday
+1746,SuperValue Palomino,23/06/21,6,Wednesday
+1747,SuperValue Palomino,24/06/21,5,Thursday
+1748,SuperValue Palomino,25/06/21,4,Friday
+1749,SuperValue Palomino,26/06/21,0,Saturday
+1750,SuperValue Palomino,27/06/21,0,Sunday
+1751,SuperValue Palomino,28/06/21,6,Monday
+1752,SuperValue Palomino,29/06/21,4,Tuesday
+1753,SuperValue Palomino,30/06/21,3,Wednesday
+1754,SuperValue Palomino,1/07/21,5,Thursday
+1755,SuperValue Palomino,2/07/21,5,Friday
+1756,SuperValue Palomino,3/07/21,0,Saturday
+1757,SuperValue Palomino,4/07/21,0,Sunday
+1758,SuperValue Palomino,5/07/21,5,Monday
+1759,SuperValue Palomino,6/07/21,5,Tuesday
+1760,SuperValue Palomino,7/07/21,5,Wednesday
+1761,SuperValue Palomino,8/07/21,7,Thursday
+1762,SuperValue Palomino,9/07/21,7,Friday
+1763,SuperValue Palomino,10/07/21,0,Saturday
+1764,SuperValue Palomino,11/07/21,0,Sunday
+1765,SuperValue Papakura,14/06/21,4,Monday
+1766,SuperValue Papakura,15/06/21,6,Tuesday
+1767,SuperValue Papakura,16/06/21,4,Wednesday
+1768,SuperValue Papakura,17/06/21,5,Thursday
+1769,SuperValue Papakura,18/06/21,5,Friday
+1770,SuperValue Papakura,19/06/21,0,Saturday
+1771,SuperValue Papakura,20/06/21,0,Sunday
+1772,SuperValue Papakura,21/06/21,7,Monday
+1773,SuperValue Papakura,22/06/21,4,Tuesday
+1774,SuperValue Papakura,23/06/21,3,Wednesday
+1775,SuperValue Papakura,24/06/21,6,Thursday
+1776,SuperValue Papakura,25/06/21,3,Friday
+1777,SuperValue Papakura,26/06/21,0,Saturday
+1778,SuperValue Papakura,27/06/21,0,Sunday
+1779,SuperValue Papakura,28/06/21,3,Monday
+1780,SuperValue Papakura,29/06/21,4,Tuesday
+1781,SuperValue Papakura,30/06/21,6,Wednesday
+1782,SuperValue Papakura,1/07/21,2,Thursday
+1783,SuperValue Papakura,2/07/21,6,Friday
+1784,SuperValue Papakura,3/07/21,0,Saturday
+1785,SuperValue Papakura,4/07/21,0,Sunday
+1786,SuperValue Papakura,5/07/21,6,Monday
+1787,SuperValue Papakura,6/07/21,6,Tuesday
+1788,SuperValue Papakura,7/07/21,6,Wednesday
+1789,SuperValue Papakura,8/07/21,3,Thursday
+1790,SuperValue Papakura,9/07/21,6,Friday
+1791,SuperValue Papakura,10/07/21,0,Saturday
+1792,SuperValue Papakura,11/07/21,0,Sunday
+1793,SuperValue Titirangi,14/06/21,3,Monday
+1794,SuperValue Titirangi,15/06/21,3,Tuesday
+1795,SuperValue Titirangi,16/06/21,4,Wednesday
+1796,SuperValue Titirangi,17/06/21,3,Thursday
+1797,SuperValue Titirangi,18/06/21,4,Friday
+1798,SuperValue Titirangi,19/06/21,0,Saturday
+1799,SuperValue Titirangi,20/06/21,0,Sunday
+1800,SuperValue Titirangi,21/06/21,7,Monday
+1801,SuperValue Titirangi,22/06/21,4,Tuesday
+1802,SuperValue Titirangi,23/06/21,2,Wednesday
+1803,SuperValue Titirangi,24/06/21,5,Thursday
+1804,SuperValue Titirangi,25/06/21,6,Friday
+1805,SuperValue Titirangi,26/06/21,0,Saturday
+1806,SuperValue Titirangi,27/06/21,0,Sunday
+1807,SuperValue Titirangi,28/06/21,2,Monday
+1808,SuperValue Titirangi,29/06/21,6,Tuesday
+1809,SuperValue Titirangi,30/06/21,6,Wednesday
+1810,SuperValue Titirangi,1/07/21,3,Thursday
+1811,SuperValue Titirangi,2/07/21,3,Friday
+1812,SuperValue Titirangi,3/07/21,0,Saturday
+1813,SuperValue Titirangi,4/07/21,0,Sunday
+1814,SuperValue Titirangi,5/07/21,3,Monday
+1815,SuperValue Titirangi,6/07/21,4,Tuesday
+1816,SuperValue Titirangi,7/07/21,7,Wednesday
+1817,SuperValue Titirangi,8/07/21,7,Thursday
+1818,SuperValue Titirangi,9/07/21,5,Friday
+1819,SuperValue Titirangi,10/07/21,0,Saturday
+1820,SuperValue Titirangi,11/07/21,0,Sunday

@@ -1,0 +1,52 @@
+North 9 / 9 
+Distribution Centre --> Countdown Birkenhead --> Countdown Glenfield --> Distribution Centre.
+Distribution Centre --> Countdown Hauraki Corner --> Countdown Milford --> Distribution Centre. 
+Distribution Centre --> Countdown Browns Bay --> Countdown Takapuna --> Distribution Centre. 
+Distribution Centre --> Countdown Mairangi Bay --> Countdown Sunnynook --> Distribution Centre. 
+Distribution Centre --> Countdown Northcote --> Distribution Centre.
+
+
+City 9 / 9
+Distribution Centre --> Countdown Newmarket --> Countdown Victoria Street West --> Countdown Metro Halsey Street --> Distribution Centre. 
+Distribution Centre --> Countdown Auckland City --> Countdown Metro Albert Street --> Countdown Ponsonby --> Distribution Centre. 
+Distribution Centre --> Countdown Grey Lynn --> Countdown Grey Lynn Central --> Distribution Centre. 
+Distribution Centre --> Countdown Mt Eden --> Distribution Centre. 
+
+
+
+East 9 / 9 
+Distribution Centre --> FreshChoice Half Moon Bay --> Countdown Highland Park --> Countdown Aviemore Drive --> Distribution Centre. 
+Distribution Centre --> Countdown Botany Downs --> Countdown Pakuranga --> Distribution Centre. 
+Distribution Centre --> Countdown Howick --> Countdown Meadowlands --> Distribution Centre. 
+Distribution Centre --> Countdown St Johns --> Countdown Meadowbank --> Distribution Centre. 
+
+
+SouthEast 9 / 9
+Distribution Centre --> Countdown Roselands --> Countdown Papakura --> SuperValue Papakura --> Distribution Centre. 
+Distribution Centre --> SuperValue Flatbush --> Countdown Takanini --> Countdown Manurewa --> Distribution Centre. 
+Distribution Centre --> Countdown Manukau Mall --> Countdown Manukau --> Countdown Papatoetoe --> Distribution Centre.
+
+
+
+South 10 / 10
+Distribution Centre --> Countdown Mangere Mall --> Countdown Airport --> FreshChoice Mangere Bridge --> Distribution Centre.
+Distribution Centre --> Countdown Sylvia Park --> Countdown Mt Wellington --> Countdown Onehunga --> Distribution Centre.
+Distribution Centre --> FreshChoice Otahuhu --> Countdown Greenlane --> Countdown Three Kings --> Distribution Centre.
+Distribution Centre --> Countdown Mangere East --> Distribution Centre.
+
+
+West 10 / 10
+Distribution Centre --> Countdown Lynfield --> Countdown Blockhouse Bay --> Countdown Lynmall --> Distribution Centre.
+Distribution Centre --> Countdown Kelston --> FreshChoice Glen Eden --> SuperValue Titirangi --> Distribution Centre.
+Distribution Centre --> SuperValue Avondale --> Countdown Pt Chevalier --> Countdown St Lukes --> Distribution Centre.
+Distribution Centre --> Countdown Mt Roskill --> Distribution Centre. 	time for route: 1.6 hours
+
+
+NorthWest 9 / 9 	
+Distribution Centre --> Countdown Henderson --> SuperValue Palomino --> FreshChoice Ranui --> Distribution Centre. 
+Distribution Centre --> Countdown Te Atatu South --> Countdown Te Atatu --> Distribution Centre.
+Distribution Centre --> Countdown Lincoln Road --> Countdown Westgate --> Distribution Centre.
+Distribution Centre --> Countdown Northwest --> Countdown Hobsonville --> Distribution Centre.
+
+
+

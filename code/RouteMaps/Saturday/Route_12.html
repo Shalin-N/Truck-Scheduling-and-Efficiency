@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e86e81a21fb849bdb1adaf11d6dbcde1 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    
+              <style>
+                .div_icon_b508314f6fa84865850fb7601378fdfc {
+                    
+                font-size:14px;
+                background-color: transparent;
+                border-color: transparent;
+                text-align: right;
+                
+                    }
+              </style>
+            
+    
+              <style>
+                .div_icon_504f18fd077541d9a1dde0118d8aa903 {
+                    
+                font-size:14px;
+                background-color: transparent;
+                border-color: transparent;
+                text-align: right;
+                
+                    }
+              </style>
+            
+    
+              <style>
+                .div_icon_22003dcab7574b6a8166d20b5cf7b533 {
+                    
+                font-size:14px;
+                background-color: transparent;
+                border-color: transparent;
+                text-align: right;
+                
+                    }
+              </style>
+            
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_e86e81a21fb849bdb1adaf11d6dbcde1" ></div>
+        
+</body>
+<script>    
+    
+            var map_e86e81a21fb849bdb1adaf11d6dbcde1 = L.map(
+                "map_e86e81a21fb849bdb1adaf11d6dbcde1",
+                {
+                    center: [-36.95770671222872, 174.81407132219618],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_836ada1523484e4994792fc9aaf085cc = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+            var poly_line_5fb2da4162eb4d239ec62c31d0c56f3c = L.polyline(
+                [[-36.948971, 174.808156], [-36.948611, 174.809386], [-36.948569, 174.809527], [-36.948558, 174.809567], [-36.948543, 174.809618], [-36.948786, 174.809728], [-36.949013, 174.808973], [-36.950002, 174.809429], [-36.950144, 174.809456], [-36.950289, 174.809456], [-36.950432, 174.809433], [-36.950662, 174.809376], [-36.951128, 174.809264], [-36.951695, 174.809133], [-36.952371, 174.808973], [-36.952458, 174.808957], [-36.953749, 174.808644], [-36.953811, 174.808629], [-36.953884, 174.8086], [-36.95391, 174.808585], [-36.954021, 174.808485], [-36.954079, 174.808405], [-36.95413, 174.808306], [-36.954171, 174.808225], [-36.954296, 174.807956], [-36.954576, 174.807396], [-36.954633, 174.807281], [-36.954797, 174.806953], [-36.955249, 174.806032], [-36.955288, 174.805949], [-36.95537, 174.805775], [-36.955557, 174.805374], [-36.955703, 174.80506], [-36.955939, 174.804554], [-36.956272, 174.803841], [-36.956507, 174.80394], [-36.956615, 174.803985], [-36.956809, 174.804068], [-36.95716, 174.804221], [-36.95735, 174.804295], [-36.957701, 174.804432], [-36.957878, 174.8045], [-36.958117, 174.804588], [-36.958498, 174.804728], [-36.9587, 174.804807], [-36.958937, 174.804885], [-36.960294, 174.805441], [-36.960554, 174.805548], [-36.960776, 174.805627], [-36.963148, 174.806556], [-36.963034, 174.806985], [-36.962922, 174.807382], [-36.962862, 174.807584], [-36.962767, 174.807854], [-36.962693, 174.807988], [-36.962568, 174.808156], [-36.962361, 174.808347], [-36.962143, 174.808454], [-36.962, 174.808519], [-36.961852, 174.808611], [-36.961708, 174.808755], [-36.961576, 174.808939], [-36.9615, 174.809101], [-36.961427, 174.809333], [-36.961395, 174.809549], [-36.961359, 174.809993], [-36.961337, 174.810204], [-36.961317, 174.810449], [-36.961227, 174.811646], [-36.961115, 174.81318], [-36.961156, 174.813804], [-36.962173, 174.813719], [-36.962497, 174.813734], [-36.962644, 174.813806], [-36.962735, 174.813899], [-36.962756, 174.813934], [-36.962872, 174.814157], [-36.962895, 174.814225], [-36.962969, 174.814452], [-36.962978, 174.814538], [-36.96303, 174.814693], [-36.962731, 174.814866], [-36.962647, 174.81492], [-36.96244, 174.81505], [-36.962207, 174.815281], [-36.961995, 174.815539], [-36.961692, 174.81597], [-36.96156, 174.816232], [-36.961391, 174.816688], [-36.961366, 174.816784], [-36.961306, 174.817006], [-36.961249, 174.817331], [-36.961206, 174.817772], [-36.961145, 174.818888], [-36.961798, 174.818944], [-36.961977, 174.818978], [-36.962114, 174.819033], [-36.962236, 174.819105], [-36.962283, 174.819139], [-36.962452, 174.819308], [-36.962507, 174.819391], [-36.962544, 174.819439], [-36.963251, 174.820706], [-36.963281, 174.820758], [-36.96331, 174.820814], [-36.96364, 174.821412], [-36.963735, 174.821573], [-36.963876, 174.82182], [-36.964063, 174.822176], [-36.964358, 174.82271], [-36.964494, 174.822954], [-36.964588, 174.823123], [-36.965175, 174.824172], [-36.965306, 174.824397], [-36.965453, 174.824668], [-36.965531, 174.824811], [-36.965615, 174.824966], [-36.96563, 174.824992], [-36.965678, 174.825078], [-36.965817, 174.825323], [-36.965678, 174.825078], [-36.96563, 174.824992], [-36.965615, 174.824966], [-36.965531, 174.824811], [-36.965453, 174.824668], [-36.965306, 174.824397], [-36.965175, 174.824172], [-36.964588, 174.823123], [-36.964494, 174.822954], [-36.964358, 174.82271], [-36.964063, 174.822176], [-36.963876, 174.82182], [-36.963735, 174.821573], [-36.96364, 174.821412], [-36.96331, 174.820814], [-36.963281, 174.820758], [-36.963251, 174.820706], [-36.962544, 174.819439], [-36.962507, 174.819391], [-36.962452, 174.819308], [-36.962283, 174.819139], [-36.962236, 174.819105], [-36.962114, 174.819033], [-36.961977, 174.818978], [-36.961798, 174.818944], [-36.961145, 174.818888], [-36.961206, 174.817772], [-36.961249, 174.817331], [-36.961306, 174.817006], [-36.961366, 174.816784], [-36.961391, 174.816688], [-36.96156, 174.816232], [-36.961692, 174.81597], [-36.961995, 174.815539], [-36.962207, 174.815281], [-36.96244, 174.81505], [-36.962647, 174.81492], [-36.962731, 174.814866], [-36.96303, 174.814693], [-36.9631, 174.814658], [-36.963043, 174.814503], [-36.962969, 174.814452], [-36.962895, 174.814225], [-36.962872, 174.814157], [-36.962756, 174.813934], [-36.962735, 174.813899], [-36.962644, 174.813806], [-36.962497, 174.813734], [-36.962173, 174.813719], [-36.961156, 174.813804], [-36.961115, 174.81318], [-36.961227, 174.811646], [-36.961317, 174.810449], [-36.961337, 174.810204], [-36.961359, 174.809993], [-36.961395, 174.809549], [-36.961427, 174.809333], [-36.9615, 174.809101], [-36.961576, 174.808939], [-36.961708, 174.808755], [-36.961852, 174.808611], [-36.962, 174.808519], [-36.962143, 174.808454], [-36.962361, 174.808347], [-36.962568, 174.808156], [-36.962693, 174.807988], [-36.962767, 174.807854], [-36.962862, 174.807584], [-36.962922, 174.807382], [-36.963034, 174.806985], [-36.963148, 174.806556], [-36.960776, 174.805627], [-36.960554, 174.805548], [-36.960294, 174.805441], [-36.958937, 174.804885], [-36.9587, 174.804807], [-36.958498, 174.804728], [-36.958117, 174.804588], [-36.957878, 174.8045], [-36.957701, 174.804432], [-36.95735, 174.804295], [-36.95716, 174.804221], [-36.956809, 174.804068], [-36.956615, 174.803985], [-36.956507, 174.80394], [-36.956272, 174.803841], [-36.955939, 174.804554], [-36.955703, 174.80506], [-36.955557, 174.805374], [-36.95537, 174.805775], [-36.955288, 174.805949], [-36.955249, 174.806032], [-36.954797, 174.806953], [-36.954633, 174.807281], [-36.954576, 174.807396], [-36.954296, 174.807956], [-36.954171, 174.808225], [-36.95413, 174.808306], [-36.954079, 174.808405], [-36.954021, 174.808485], [-36.95391, 174.808585], [-36.953884, 174.8086], [-36.953811, 174.808629], [-36.953749, 174.808644], [-36.952458, 174.808957], [-36.952371, 174.808973], [-36.951695, 174.809133], [-36.951128, 174.809264], [-36.950662, 174.809376], [-36.950432, 174.809433], [-36.950289, 174.809456], [-36.950144, 174.809456], [-36.950002, 174.809429], [-36.949013, 174.808973], [-36.949077, 174.808769], [-36.949219, 174.808286], [-36.949331, 174.807909], [-36.948896, 174.807701], [-36.948813, 174.807755], [-36.948659, 174.807855], [-36.948646, 174.807904], [-36.948622, 174.80799], [-36.948971, 174.808156]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+            var marker_d56f387948d546e08a9e6dc8d1aeac4a = L.marker(
+                [-36.94904179, 174.8080123],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+            var icon_50248f06a5494e60a5edbb06492ddd11 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "black", "prefix": "glyphicon"}
+            );
+            marker_d56f387948d546e08a9e6dc8d1aeac4a.setIcon(icon_50248f06a5494e60a5edbb06492ddd11);
+        
+    
+        var popup_b5d1c206e4b1434dbdaf507efe773b8c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_79f6dc7796984370a0329189493f00de = $(`<div id="html_79f6dc7796984370a0329189493f00de" style="width: 100.0%; height: 100.0%;">Distribution Centre Auckland</div>`)[0];
+            popup_b5d1c206e4b1434dbdaf507efe773b8c.setContent(html_79f6dc7796984370a0329189493f00de);
+        
+
+        marker_d56f387948d546e08a9e6dc8d1aeac4a.bindPopup(popup_b5d1c206e4b1434dbdaf507efe773b8c)
+        ;
+
+        
+    
+    
+            var marker_e54f576aac18466a96366ac46a9cd859 = L.marker(
+                [-36.94904179, 174.8080123],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+                var div_icon_b508314f6fa84865850fb7601378fdfc = L.divIcon({
+                    className: 'div_icon_b508314f6fa84865850fb7601378fdfc',
+                    iconSize: [150,36],
+                    iconAnchor: [100,0],
+                    html : "Distribution Centre Auckland",
+                    });
+                marker_e54f576aac18466a96366ac46a9cd859.setIcon(div_icon_b508314f6fa84865850fb7601378fdfc);
+            
+    
+            var marker_babe6552df634d7c9eef4d44adc68560 = L.marker(
+                [-36.9657908, 174.825346],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+            var icon_996b60cc9ba84137883581516a091914 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_babe6552df634d7c9eef4d44adc68560.setIcon(icon_996b60cc9ba84137883581516a091914);
+        
+    
+        var popup_043f94865ac44524adbddf40b3c811db = L.popup({"maxWidth": "100%"});
+
+        
+            var html_759c5eba70d644c7a4860726487e3e41 = $(`<div id="html_759c5eba70d644c7a4860726487e3e41" style="width: 100.0%; height: 100.0%;">Countdown Mangere East</div>`)[0];
+            popup_043f94865ac44524adbddf40b3c811db.setContent(html_759c5eba70d644c7a4860726487e3e41);
+        
+
+        marker_babe6552df634d7c9eef4d44adc68560.bindPopup(popup_043f94865ac44524adbddf40b3c811db)
+        ;
+
+        
+    
+    
+            var marker_dd639eda5e0c49a6981ff31cb07d1daa = L.marker(
+                [-36.9657908, 174.825346],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+                var div_icon_504f18fd077541d9a1dde0118d8aa903 = L.divIcon({
+                    className: 'div_icon_504f18fd077541d9a1dde0118d8aa903',
+                    iconSize: [150,36],
+                    iconAnchor: [100,0],
+                    html : "Countdown Mangere East",
+                    });
+                marker_dd639eda5e0c49a6981ff31cb07d1daa.setIcon(div_icon_504f18fd077541d9a1dde0118d8aa903);
+            
+    
+            var marker_7409fdd08e0e497dacf64a8e8c9b6c61 = L.marker(
+                [-36.94904179, 174.8080123],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+            var icon_2e43e093f8de452ca55f3f4e2f9a0758 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "black", "prefix": "glyphicon"}
+            );
+            marker_7409fdd08e0e497dacf64a8e8c9b6c61.setIcon(icon_2e43e093f8de452ca55f3f4e2f9a0758);
+        
+    
+        var popup_6aafed57df5b44feb9d090eb679aa6f1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_148bd2c921f34889b006cbd33595689f = $(`<div id="html_148bd2c921f34889b006cbd33595689f" style="width: 100.0%; height: 100.0%;">Distribution Centre Auckland</div>`)[0];
+            popup_6aafed57df5b44feb9d090eb679aa6f1.setContent(html_148bd2c921f34889b006cbd33595689f);
+        
+
+        marker_7409fdd08e0e497dacf64a8e8c9b6c61.bindPopup(popup_6aafed57df5b44feb9d090eb679aa6f1)
+        ;
+
+        
+    
+    
+            var marker_be703c4cfa684a0fb5f2f7808b086f1e = L.marker(
+                [-36.94904179, 174.8080123],
+                {}
+            ).addTo(map_e86e81a21fb849bdb1adaf11d6dbcde1);
+        
+    
+                var div_icon_22003dcab7574b6a8166d20b5cf7b533 = L.divIcon({
+                    className: 'div_icon_22003dcab7574b6a8166d20b5cf7b533',
+                    iconSize: [150,36],
+                    iconAnchor: [100,0],
+                    html : "Distribution Centre Auckland",
+                    });
+                marker_be703c4cfa684a0fb5f2f7808b086f1e.setIcon(div_icon_22003dcab7574b6a8166d20b5cf7b533);
+            
+</script>

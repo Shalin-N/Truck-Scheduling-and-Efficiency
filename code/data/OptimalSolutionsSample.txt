@@ -1,0 +1,66 @@
+North 9 / 9     cumulative time for region: 61170.27
+City 9 / 9      cumulative time for region: 46038.79000000001
+East 9 / 9      cumulative time for region: 47525.48
+SouthEast 9 / 9         cumulative time for region: 42468.530000000006
+South 10 / 10   cumulative time for region: 43358.51
+West 10 / 10    cumulative time for region: 45907.53
+NorthWest 9 / 9         cumulative time for region: 49071.259999999995
+
+Distribution Centre --> Countdown Birkenhead --> Countdown Glenfield --> Distribution Centre.   time for route: 3.4 hours
+Distribution Centre --> Countdown Hauraki Corner --> Countdown Milford --> Distribution Centre.         time for route: 3.6 hours
+Distribution Centre --> Countdown Browns Bay --> Countdown Takapuna --> Distribution Centre.    time for route: 4.0 hours
+Distribution Centre --> Countdown Mairangi Bay --> Countdown Sunnynook --> Distribution Centre.         time for route: 3.8 hours
+Distribution Centre --> Countdown Northcote --> Distribution Centre.    time for route: 2.2 hours
+Distribution Centre --> Countdown Auckland City --> Countdown Metro Albert Street --> Countdown Ponsonby --> Distribution Centre.       time for route: 4.0 hours        
+Distribution Centre --> Countdown Newmarket --> Countdown Victoria Street West --> Countdown Metro Halsey Street --> Distribution Centre.       time for route: 3.9 hours
+Distribution Centre --> Countdown Grey Lynn --> Countdown Grey Lynn Central --> Distribution Centre.    time for route: 3.2 hours
+Distribution Centre --> Countdown Mt Eden --> Distribution Centre.      time for route: 1.7 hours
+Distribution Centre --> FreshChoice Half Moon Bay --> Countdown Highland Park --> Countdown Aviemore Drive --> Distribution Centre.     time for route: 3.7 hours        
+Distribution Centre --> Countdown Botany Downs --> Countdown Pakuranga --> Distribution Centre.         time for route: 3.1 hours
+Distribution Centre --> Countdown Howick --> Countdown Meadowlands --> Distribution Centre.     time for route: 3.4 hours
+Distribution Centre --> Countdown St Johns --> Countdown Meadowbank --> Distribution Centre.    time for route: 3.0 hours
+Distribution Centre --> Countdown Roselands --> Countdown Papakura --> SuperValue Papakura --> Distribution Centre.     time for route: 3.9 hours
+Distribution Centre --> SuperValue Flatbush --> Countdown Takanini --> Countdown Manurewa --> Distribution Centre.      time for route: 4.0 hours
+Distribution Centre --> Countdown Manukau Mall --> Countdown Manukau --> Countdown Papatoetoe --> Distribution Centre.  time for route: 3.9 hours
+Distribution Centre --> Countdown Mangere Mall --> Countdown Airport --> FreshChoice Mangere Bridge --> Distribution Centre.    time for route: 3.2 hours
+Distribution Centre --> Countdown Sylvia Park --> Countdown Mt Wellington --> Countdown Onehunga --> Distribution Centre.       time for route: 4.0 hours
+Distribution Centre --> FreshChoice Otahuhu --> Countdown Greenlane --> Countdown Three Kings --> Distribution Centre.  time for route: 3.6 hours
+Distribution Centre --> Countdown Mangere East --> Distribution Centre.         time for route: 1.2 hours
+Distribution Centre --> Countdown Lynfield --> Countdown Blockhouse Bay --> Countdown Lynmall --> Distribution Centre.  time for route: 3.9 hours
+Distribution Centre --> Countdown Kelston --> FreshChoice Glen Eden --> SuperValue Titirangi --> Distribution Centre.   time for route: 3.5 hours
+Distribution Centre --> SuperValue Avondale --> Countdown Pt Chevalier --> Countdown St Lukes --> Distribution Centre.  time for route: 3.7 hours
+Distribution Centre --> Countdown Mt Roskill --> Distribution Centre.   time for route: 1.6 hours
+Distribution Centre --> Countdown Henderson --> SuperValue Palomino --> FreshChoice Ranui --> Distribution Centre.      time for route: 3.7 hours
+Distribution Centre --> Countdown Te Atatu South --> Countdown Te Atatu --> Distribution Centre.        time for route: 3.1 hours
+Distribution Centre --> Countdown Lincoln Road --> Countdown Westgate --> Distribution Centre.  time for route: 3.4 hours
+Distribution Centre --> Countdown Northwest --> Countdown Hobsonville --> Distribution Centre.  time for route: 3.4 hours
+
+cumulative time for all regions 335540.37 in seconds
+Total cost of all routes $ 20971.273125
+
+North 9 / 9     cumulative time for region: 35142.509999999995
+City 8 / 8      cumulative time for region: 23831.59
+East 10 / 10    cumulative time for region: 29112.45
+South 10 / 10   cumulative time for region: 29024.949999999997
+West 9 / 9      cumulative time for region: 31571.27
+Central 7 / 7   cumulative time for region: 19052.21
+ 
+Distribution Centre --> Countdown Birkenhead --> Countdown Glenfield --> Countdown Northcote --> Distribution Centre.   time for route: 3.4 hours
+Distribution Centre --> Countdown Hauraki Corner --> Countdown Milford --> Countdown Takapuna --> Distribution Centre.  time for route: 3.0 hours
+Distribution Centre --> Countdown Browns Bay --> Countdown Mairangi Bay --> Countdown Sunnynook --> Distribution Centre.        time for route: 3.4 hours
+Distribution Centre --> Countdown Auckland City --> Countdown Victoria Street West --> Countdown Newmarket --> Countdown Mt Eden --> Distribution Centre.       time for route: 3.3 hours
+Distribution Centre --> Countdown Grey Lynn Central --> Countdown Ponsonby --> Countdown Grey Lynn --> Countdown Pt Chevalier --> Distribution Centre.  time for route: 3.3 hours
+Distribution Centre --> Countdown Highland Park --> Countdown Aviemore Drive --> Countdown Howick --> Countdown Meadowlands --> Distribution Centre.    time for route: 3.0 hours
+Distribution Centre --> Countdown St Johns --> Countdown Meadowbank --> Countdown Mt Wellington --> Countdown Sylvia Park --> Distribution Centre.      time for route: 3.2 hours
+Distribution Centre --> Countdown Botany Downs --> Countdown Pakuranga --> Distribution Centre.        time for route: 2.0 hours
+Distribution Centre --> Countdown Papatoetoe --> Countdown Manukau --> Countdown Manukau Mall --> Countdown Mangere East --> Distribution Centre.       time for route: 2.9 hours
+Distribution Centre --> Countdown Takanini --> Countdown Papakura --> Countdown Roselands --> Countdown Manurewa --> Distribution Centre.       time for route: 3.6 hours
+Distribution Centre --> Countdown Mangere Mall --> Countdown Airport --> Distribution Centre.   time for route: 1.6 hours
+Distribution Centre --> Countdown Kelston --> Countdown Henderson --> Countdown Lincoln Road --> Countdown Te Atatu --> Distribution Centre.    time for route: 3.7 hours
+Distribution Centre --> Countdown Lynfield --> Distribution Centre.     time for route: 1.1 hours
+Distribution Centre --> Countdown Te Atatu South --> Countdown Westgate --> Countdown Northwest --> Countdown Hobsonville --> Distribution Centre.      time for route: 3.9 hours
+Distribution Centre --> Countdown Blockhouse Bay --> Countdown Lynmall --> Countdown St Lukes --> Countdown Mt Roskill --> Distribution Centre.         time for route: 3.0 hours
+Distribution Centre --> Countdown Three Kings --> Countdown Greenlane --> Countdown Onehunga --> Distribution Centre.   time for route: 2.3 hours
+
+cumulative time for all regions 167734.97999999998 in seconds
+Total cost of all routes $ 10483.436249999999
