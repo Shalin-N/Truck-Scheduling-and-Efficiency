@@ -32,7 +32,6 @@ def simulateRoute(n, weekend=False):
     # read in files
     travel_durations = pd.read_csv("code" + os.sep + "data" + os.sep + "WoolworthsTravelDurations.csv", index_col=0)
     routeRegions = pd.read_csv("code" + os.sep + "data" + os.sep + "WoolworthsLocationsDivisions.csv", index_col=2)
-
     bestRoutesList, bestRoutesDF, bestTimes = read(weekend)
     bestTimesInitial = bestTimes[:-1]
 
@@ -44,8 +43,7 @@ def simulateRoute(n, weekend=False):
     times_dropped.set_index('Store', inplace=True)
 
     # df that tracks how many times a route is perfect
-    times_perfect = pd.DataFrame(
-        {'Route': list(bestRoutesDF.columns), 'Times Perfect': [0] * len(list(bestRoutesDF.columns))})
+    times_perfect = pd.DataFrame({'Route': list(bestRoutesDF.columns), 'Times Perfect': [0] * len(list(bestRoutesDF.columns))})
     times_perfect.set_index('Route', inplace=True)
 
     allcosts = [0] * n
