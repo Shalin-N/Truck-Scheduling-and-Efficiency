@@ -1,3 +1,7 @@
+# To Do
+- clean up directory
+- fix comments in simulation code
+
 # Executive Summary
 
 ### Goals
