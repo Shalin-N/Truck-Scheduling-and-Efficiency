@@ -1,13 +1,13 @@
 # To Do
-- clean up directory
-- fix comments in simulation code
+- Clean up directory
+- Fix comments in simulation code
 
 # Project Background
 Woolworths NZ would like to determine a suitable truck logistics plan such that costs are minimised. They have 
 provided you with: 
-- the number of pallets delivered to each store they operate over a 4 week period (pre-lockdown)
-- the GPS coordinates of each store and the distribution centre
-- the road distance (in meters) and travel durations (in seconds) between each pair of stores and distribution points
+- The number of pallets delivered to each store they operate over a 4 week period (pre-lockdown)
+- The GPS coordinates of each store and the distribution centre
+- The road distance (in meters) and travel durations (in seconds) between each pair of stores and distribution points
 
 Given the current economic situation, Woolworths NZ is also considering reducing the number of stores they 
 operate by closing a store where two stores are unusually close to each other due to historical lease 
