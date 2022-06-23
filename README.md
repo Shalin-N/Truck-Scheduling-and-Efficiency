@@ -1,5 +1,4 @@
 # To Do
-- Clean up directory
 - Fix comments in simulation code
 
 # Project Background
@@ -15,7 +14,7 @@ agreements. They would like an estimate of the impact of closing a store in term
 savings in transport costs can be reinvested in additional trucks; each extra truck costs $5,000 in additional 
 fixed costs to operate per month.
 
-# Learning Outcomes
+# Project Expectations
 - Analyse the data provided to develop an appropriate estimate of the number of pallets required at each store on each day which can be used in your optimisation model. 
 - Using the pallet estimates, create a set of feasible trucking routes that satisfy the requirements given. 
 - Formulate and solve a mixed-integer program to find the least-cost routing schedule for the truck fleet, 
@@ -23,6 +22,7 @@ using the demand estimates from part 1.
 - Create visualisation(s) of your proposed trucking routes, suitable for presentation to management. 
 - Evaluate the quality of your schedule by creating a simulation to estimate the actual cost of satisfying actual pallet demand at every store. Your simulation should take into variations in demand and sensibly approximate the effect of traffic. Hence, give an estimate of the cost of operating your proposed routing schedule, with and without the Northern distribution centre. 
 - Identify stores that could be closed under the proposal, and evaluate how the resulting cost changes affects the performance of your proposed trucking schedule. Consider also the wider implications on the systems and people that interact with the Countdown/FreshChoice/SuperValue stores and this truck logistics plan. 
+- What are your recommendations to Woolworths NZ after conducting this study?
 
 # Report
 ## Executive Summary
