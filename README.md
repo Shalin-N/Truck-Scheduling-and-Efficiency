@@ -2,7 +2,30 @@
 - clean up directory
 - fix comments in simulation code
 
-# Executive Summary
+# Project Background
+Woolworths NZ would like to determine a suitable truck logistics plan such that costs are minimised. They have 
+provided you with: 
+- the number of pallets delivered to each store they operate over a 4 week period (pre-lockdown)
+- the GPS coordinates of each store and the distribution centre
+- the road distance (in meters) and travel durations (in seconds) between each pair of stores and distribution points
+
+Given the current economic situation, Woolworths NZ is also considering reducing the number of stores they 
+operate by closing a store where two stores are unusually close to each other due to historical lease 
+agreements. They would like an estimate of the impact of closing a store in terms of their logistics planning. The 
+savings in transport costs can be reinvested in additional trucks; each extra truck costs $5,000 in additional 
+fixed costs to operate per month.
+
+# Learning Outcomes
+- Analyse the data provided to develop an appropriate estimate of the number of pallets required at each store on each day which can be used in your optimisation model. 
+- Using the pallet estimates, create a set of feasible trucking routes that satisfy the requirements given. 
+- Formulate and solve a mixed-integer program to find the least-cost routing schedule for the truck fleet, 
+using the demand estimates from part 1. 
+- Create visualisation(s) of your proposed trucking routes, suitable for presentation to management. 
+- Evaluate the quality of your schedule by creating a simulation to estimate the actual cost of satisfying actual pallet demand at every store. Your simulation should take into variations in demand and sensibly approximate the effect of traffic. Hence, give an estimate of the cost of operating your proposed routing schedule, with and without the Northern distribution centre. 
+- Identify stores that could be closed under the proposal, and evaluate how the resulting cost changes affects the performance of your proposed trucking schedule. Consider also the wider implications on the systems and people that interact with the Countdown/FreshChoice/SuperValue stores and this truck logistics plan. 
+
+# Report
+## Executive Summary
 
 ### Goals
 Within this report, we aim to assist Woolworths New Zealand in creating a cost-efficient routing plan that is stable for the uncertainty of traffic and store demand, and make recommendations for the future operation of stores and trucks that belong to their branch.
@@ -21,14 +44,14 @@ For weekdays, we simulated the cost of $21,390 with 95% confidence intervals of 
 ### Recommendations
 I recommended that two stores should be merged due to being within 500m of another store. Further store closure should be avoided to the broader impact they have. Our recommendations and model are only accurate for our data. There is no guarantee that given different sample data, our predictions would still hold.
 
-# Introduction
+## Introduction
 There is an uncertainty with demand across Woolworths chains store each day. If the store is unable to meet its demand, it affects the image and profits of Woolworths New Zealand and the lively hood of the public. In this report, we aim to provide a cost-efficient routing plan that can account for this randomness. The company has a fleet of 30 vehicles with 26 pallet capacity that needs to satisfy the demand at each store each day. Each vehicle follows a route that starts at the distribution centre, visits some stores, and returns to the distribution centre. We assume that the total demand of a store must be carried by one vehicle and cannot be met by several trucks. It is also of interest to find stores that are unusually close to each other due to historical lease agreements and make recommendations on their future operation. 
 
-# Methods
+## Methods
 Our method consisted of 3 parts. First, we explored the data given to understand each store's profiles better and find common trends. Second, we generated a fixed routing plan using combinatorics and scheduling for a fixed demand estimation at each store. Thirdly, we simulated our routing plan against realistic varying demands to see whether it was stable and determine the uncertainty in cost. 
 
-## Data Analysis
-### Demand Estimation
+### Data Analysis
+#### Demand Estimation
 We explored the demand profile for each store to make a reasonable estimate of the average demand at each store which would later be used to generate our routes. The estimations can be found in Appendix A.
 
 ![image](https://user-images.githubusercontent.com/85419997/174465392-0cfc4e59-1b64-43d9-a9d3-e753dcaff148.png)
@@ -38,7 +61,7 @@ We found that the Countdown store type has roughly twice the demand of all other
 
 Since the demand across the weekdays had a relatively small deviation and Saturdays had a large deviation, we treated Saturdays differently in our solution. We decided to solve the problem twice, one set of routes for weekday conditions and another set of routes for Saturday conditions. Sunday could be ignored  as there was 0 demand on this day.
 
-### Regions
+#### Regions
 We grouped each store into 1 of x geographical regions. 
 Where x is [North, City, East, SouthEast, South, West, NorthWest] on weekdays, 
 or x is [North, City, East, South, Central, West] on Saturday. 
@@ -50,8 +73,8 @@ This was done to simplify the overall linear program, under the assumption that 
 
 For weekdays each region had either 9 or 10 stores, which allows for good groupings which can be seen in <b>Figure 2</b>. Because many stores had 0 demand on Saturdays, we generated a different set of regions (and thus routes) for Saturdays. Here we split the stores into 6 regions ranging from 9 to 11 stores per region.
 
-## Route Generation
-### Route Combinations
+### Route Generation
+#### Route Combinations
 Using combinatorics, we created every possible combination of stores up to a maximum of 4 per region. Feasible routes where the total demand of all stores exceeded 26 were ignored.
 
 For weekdays we found that:
@@ -66,26 +89,26 @@ A maximum cluster size of 5 was also considered but ultimately ignored. We found
 
 We found that the odds of a length 5 route being valid for the Saturday demand were about 90%. However, considering the size of regions, the computational cost of including length-5 routes was a massive increase. The other option would have been smaller regions (6 regions of 8 or 9), but with regions this small, length-5 routes are pointless (A length 5 and a length 3 route or 2 length 4 routes both take 2 trucks to satisfy). 
 
-### Permutations
+#### Permutations
 Using our generated combinations, I created permutations of each route to calculate the shortest (in time) tour. The maximum permutation size was 4! (24), which was computationally cheap. The distribution centre was added to the start and end of each tour and then each permutation was costed, including the 7.5-minute unloading time per pallet per store. The shortest permutation was saved. Once we had calculated the shortest permutation if it exceeded 4 hours, it was ignored in the linear program.
 
-### Linear Program
+#### Linear Program
 To create our routing plan, I took all our generated routes and their associated best permutation and solved them in scheduling an integer linear program for a fixed demand. This is a vehicle routing problem which is an extension of the well-known travelling salesman problem. Given that it's parameters were not enumerated it will not provide the most optimal solution, but it will provide a solution of similar quality
 
 ![image](https://user-images.githubusercontent.com/85419997/174465582-b172ce4d-60df-43db-99de-c3a89931b685.png)
 
-## Simulation
-### Route Simulation
+### Simulation
+#### Route Simulation
 Using the deterministic routes solved for fixed demands, we simulated if our routes were feasible for random demands and random traffic conditions. If routes were not feasible the store closest to the distribution centre in the current route was dropped and added to a list that would later be used to create a route so that the stores' demand was still met. 
 
-### Traffic Estimation
+#### Traffic Estimation
 According to a study published in the Journal of Modern Transportation, the lognormal distribution is best used to describe traffic variation.
 Based on the traffic observations made in Auckland. We calibrated the lognormal distribution. ln⁡(traffic)~ (N(μ,σ^2 )-C )* K.  Where μ=2.3, σ=0.5,C=8,K=0.8
 
-### Store Demand Estimation
+#### Store Demand Estimation
 For each store in the route the demands per simulation was randomly generated according to a normal distribution.  The normal distribution was fitted to the demand data we were given.
 
-### Store Merger
+#### Store Merger
 I estimated that the expected new demand due to a store merger can be estimated by:
 MergeDemand = CEIL [(Store1Demand + Store2Demand)*90%]
 
@@ -93,8 +116,8 @@ This assumes that:
 - Each store has 1 pallet of food waste per day due to overstocking.
 - Thus when 2 stores merge the new overstocking value is less than the 2 original stores combined.
 
-# Results
-## Route Generation
+## Results
+### Route Generation
 As discussed, we solved Weekdays and Weekends independently, with routes up to length four for weekends and length three for weekdays. For visualisations of our routes refer to Appendix B. Our results yielded:
 
 <b>Weekdays</b>
@@ -109,7 +132,7 @@ As discussed, we solved Weekdays and Weekends independently, with routes up to l
 
 We assumed that truck rental is billed to the second. Travel time was kept in seconds throughout and converted to after the final calculation. Another assumption we may wish to explore is the cost of billing to the minute. This would increase the total cost by a maximum of $105 dollars.
 
-## Simulation
+### Simulation
 ![image](https://user-images.githubusercontent.com/85419997/174465651-f2854117-937f-436a-9027-07d4e506ef1f.png)
 <br><i>Figure 3 Density histogram of 1000 simulated costs for Monday to Friday</i>
 
@@ -131,10 +154,10 @@ In our simulations for Saturday routes, the demand never exceeded 26 pallets per
 We simulated that on average the cost will be $10,633 with 
 95% confidence intervals of $10,468 to $10,796.
 
-# Conclusion
+## Conclusion
 We generated an optimal cost routing plan for weekdays and Saturdays where an estimate of average demand per store was used. This was achieved using combinatorics and permutations. Our deterministic routes were then simulated to check whether said routing plan would be stable for the random conditions induced by the uncertainty of everyday life. Our Generated routes were simulated 1000 times and the result were that 2 routes tended to break 30% of the time.
 
-## Recommendations
+### Recommendations
 I would recommend that the stores:
 1.	Countdown Aviemore Drive & Countdown Highland Park should be merged.
 2.	Countdown Northwest & Countdown Westgate should be merged.
@@ -145,26 +168,26 @@ For both recommendations the stores are within 500m of each other. We can expect
 
 This store merger does not affect have a substantial effect on the routing plan and makes it more stable as the new merged store demand is less than the previous. The saving in time will almost be negligible as both stores are situated within 500m of each other (Appendix C). There is also no need to invest in additional trucks as the current routing plans is efficient enough to not use all 30 trucks for any given day.
 
-## Discussion
+### Discussion
 I could have recommended closing more stores, but there are wider implications such as job loss and the negative image that it conveys towards the brand. That is why I suggested a merger of only 2 stores that were abnormally close to each other as it achieves similar goals but has a less negative impact.
 
 One of the drawbacks of our model is that it is based on a fixed set of routes. A more robust model would resolve the routing problem for changing demands each day. Our simulation also doesn't consider the traffic variation due to the time of day. A more robust simulation would assume longer travel times during the morning due to work traffic. 
 
 Our model is only accurate for our data, and there is no guarantee that given different sample data, it would hold together. We tried to account for this by using simulation, but this is still, at best, an approximation and may not reflect real conditions.  
 
-# Appendix A
+## Appendix A
 ![image](https://user-images.githubusercontent.com/85419997/174465742-3ab18a4f-6120-4e44-9112-01a92822b637.png)
 
-# Appendix B
+## Appendix B
 ## Weekday
 ![image](https://user-images.githubusercontent.com/85419997/174465752-0ffdd6cd-f2ef-4b2b-b869-589b9b4bf563.png)
 ![image](https://user-images.githubusercontent.com/85419997/174465769-acb93ecf-7e69-4550-8700-6d18a1e6e082.png)
 
-## Saturday
+### Saturday
 ![image](https://user-images.githubusercontent.com/85419997/174465776-c209b9e0-d76a-4b3e-a678-e9f30805fd8f.png)
 ![image](https://user-images.githubusercontent.com/85419997/174465823-88a53285-a4a5-44bc-ad64-cbd9ece7129b.png)
 
-# Appendix C
+## Appendix C
 ![image](https://user-images.githubusercontent.com/85419997/174465837-3f28ae4d-f688-4a93-947b-918e524f8d72.png)
 ![image](https://user-images.githubusercontent.com/85419997/174465840-4f452768-8cb9-47c8-9a3f-73b45c796518.png)
 
